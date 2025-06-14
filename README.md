@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvrajjjjjj" alt="yuvrajjjjjj" /></a> </p>
 
-- 🔭 I’m currently working on **vision reality**
+- 🔭 I’m currently working on Web Development | Web 3 | Devops |.
 
-- 🌱 I’m currently learning **Android application development**
+- 🌱 I’m currently learning basic to advance of web development, about ETH SOL(solana) and many other stuff simultaneously.
 
-- 👨‍💻 All of my projects are available at [this profile and for confusion please contact.](this profile and for confusion please contact.)
+- 💬 Ask me about web dev | web3 | devops |.
 
-- 💬 Ask me about **AR/VR||Android dev||Java||**
+- 📫 How to reach me www.linkedin.com/in/yuvrajsingh711
 
-- 📫 How to reach me **www.linkedin.com/in/yuvrajsingh711**
-
-- ⚡ Fun fact **I think life is full of fun.**
+- ⚡ Fun fact life is full of fun.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
