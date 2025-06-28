@@ -1,31 +1,66 @@
-<h1 align="center">Hi 👋, I'm Yuvraj singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
+<h3 align="center">A passionate Full Stack, DevOps & Web3 Developer from India 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajjjjjj&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajjjjjj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvrajjjjjj" alt="yuvrajjjjjj" /></a> </p>
-
-- 🔭 I’m currently working on Web Development | Web 3 | Devops |.
-
-- 🌱 I’m currently learning basic to advance of web development, about ETH SOL(solana) and many other stuff simultaneously.
-
-- 💬 Ask me about web dev | web3 | devops |.
-
-- 📫 How to reach me www.linkedin.com/in/yuvrajsingh711
-
-- ⚡ Fun fact life is full of fun.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yuvrajsingh711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yuvrajsingh711" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/yuvrajjjjjjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yuvrajjjjjjj" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuvrajjjjjj&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajjjjjj" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yuvrajjjjjj&theme=tokyonight&row=1&margin-w=10&margin-h=10" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajjjjjj&show_icons=true&locale=en&layout=compact" alt="yuvrajjjjjj" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajjjjjj&show_icons=true&locale=en" alt="yuvrajjjjjj" /></p>
+### 🚀 Current Focus Areas
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajjjjjj&" alt="yuvrajjjjjj" /></p>
+- 🌍 **Web Development**: Frontend + Backend (React, Next.js, Tailwind, Express.js)
+- ☁️ **DevOps & Infrastructure**: Docker, Kubernetes, CI/CD, Terraform, AWS, GitOps
+- 🔗 **Web3 Development**: Ethereum (Solidity, Foundry), Solana (Anchor, Web3.js), Token & DEX systems
+
+---
+
+### 💡 Tech Stack
+
+#### 🚧 Web Development
+![React](https://img.shields.io/badge/-React-black?logo=react&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat)
+![Express](https://img.shields.io/badge/-Express-grey?logo=express&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat)
+
+#### ⚙️ DevOps & Infra
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&style=flat)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=flat)
+
+#### 🔗 Web3 (ETH & SOL)
+![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&style=flat)
+![Foundry](https://img.shields.io/badge/-Foundry-grey?style=flat)
+![Ethers.js](https://img.shields.io/badge/-ethers.js-3C3C3D?logo=ethereum&style=flat)
+![Solana](https://img.shields.io/badge/-Solana-9945FF?logo=solana&style=flat)
+![Metaplex](https://img.shields.io/badge/-Metaplex-FF5C5C?style=flat)
+![Anchor](https://img.shields.io/badge/-Anchor-4F46E5?style=flat)
+
+#### 🧠 Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat)
+![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/yuvrajsingh711" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://leetcode.com/yuvrajjjjjjj" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="Leetcode" height="30" width="30" />
+  </a>
+</p>
