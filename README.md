@@ -1,35 +1,84 @@
-
 <h1 align="center">Hi 👋, I'm Yuvraj Singh </h1>
 <h3 align="center">A passionate Software Developer from Uttarakhand, India </h3>
+
 <img align="right" alt="Coding" width="335" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <h3 align="center">
-  B.Tech in CSE with (Specialization in E-Commerce Technology)   <br/> @ Vellore Institute of Technology, Bhopal  <br/>
-  Passionate about building scalable apps & solving real-world problems
+  B.Tech in CSE (Specialization in E-Commerce Technology) <br/>
+  @ Vellore Institute of Technology, Bhopal <br/>
+  Aspiring Full-Stack Developer focused on scalable & real-time systems
 </h3>
 
+- 🌱 I’m currently learning **Advanced Web Development, DevOps, and exploring Web3 (Solana Ecosystem).**
 
-- 🌱 I’m currently learning Web Development, Devops, and exploring Web3.
+- 📫 How to reach me: **yuvrajsingh9027249999@gmail.com**
 
-- 📫 How to reach me yuvrajsingh9027249999@gmail.com**
-
+---
 
 <h3 align="left">Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/yuvrajnode" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/yuvrajyx/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/yuvrajnode" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>&nbsp;
+<a href="https://www.instagram.com/yuvrajyx/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
 
 ---
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgress](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge) ![prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge") ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+
+![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=socket.io&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+- ✅ **Exchange Platform (Real-Time Crypto Orderbook)**  
+  Built WebSocket streaming for 100+ crypto pairs, reduced latency by 20%, and improved ingestion rate by 300 msg/sec.
+
+- ✅ **Doodle Space (Collaborative Whiteboard)**  
+  Multi-user Excalidraw-style platform supporting 500+ concurrent users with sub-100ms latency.
+
+- ✅ **Solana Web3 DApp & Launchpad**  
+  Token launchpad + wallet interactions supporting 5 wallet types with 99.99% transaction success rate.
+
+---
+
+# 🌍 Open Source Contributions
+
+- **p5.js** — Improved documentation clarity for `Vector.fromAngle()` for better contributor usability.  
+- **n8n** — Enhanced frontend PR with timezone-aware date formatting and maintainer feedback iterations.
+
+---
 
 <h3 align="center">📊 Statistics</h3>
 
-<!-- Use correct markdown and remove line breaks from URLs -->
 <div align="center">
   <a href="https://github.com/yuvrajnode">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuvrajnode&theme=2077" height="180em" />
@@ -44,14 +93,9 @@
 
 ---
 
-<h2 align="left">⚡ Activity Graph</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajnode&theme=react-dark" />
-</div>
-
----
-
 ## 🧠 Fun Facts
-- 💬 Ask me about **Web3, Infrastructure as Code, Startups, Product Building**  
-- 🎯 Passionate about **developer tools & real-world solutions**  
-- 🧗 Tech explorer & active **open-source contributor**
+
+- 💬 Ask me about **Next.js, WebSockets, DevOps & Solana Web3**
+- 🚀 Love building **real-time scalable systems**
+- 🌍 Active open-source contributor in **p5.js & n8n**
+- 🎯 Strong foundations in **DSA, Computer Networks & OOP**
