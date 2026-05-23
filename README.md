@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh </h1>
-<h3 align="center">A passionate Software Developer from Uttarakhand, India </h3>
+<h3 align="center"> SDE Intern · Full-Stack · Real-Time Systems · Web3 </h3>
 
 <img align="right" alt="Coding" width="335" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="center">
   B.Tech in CSE (Specialization in E-Commerce Technology) <br/>
   @ Vellore Institute of Technology, Bhopal <br/>
-  Aspiring Full-Stack Developer focused on scalable & real-time systems
 </h3>
 
-- 🌱 I’m currently learning **Advanced Web Development, DevOps, and exploring Web3 (Solana Ecosystem).**
+- 🌱 I’m currently learning **Advanced Web Development, DevOps, AI/ML and exploring Web3 (Solana Ecosystem).**
 
 - 📫 How to reach me: **yuvrajsingh9027249999@gmail.com**
 
