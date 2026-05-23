@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Yuvraj Singh </h1>
 <h3 align="center"> SDE Intern · Full-Stack · Real-Time Systems · Web3 </h3>
 
@@ -8,9 +9,9 @@
   @ Vellore Institute of Technology, Bhopal <br/>
 </h3>
 
-- 🌱 I’m currently learning **Advanced Web Development, DevOps, AI/ML and exploring Web3 (Solana Ecosystem).**
-
-- 📫 How to reach me: **yuvrajsingh9027249999@gmail.com**
+<p align="center">
+  🚀 I'm a passionate Full-Stack Developer with a strong focus on building scalable, real-time applications and exploring the exciting frontiers of Web3 and DevOps. My journey involves mastering modern software engineering from end-to-end, creating robust solutions, and contributing to open-source projects.
+</p>
 
 ---
 
@@ -25,6 +26,10 @@
 ---
 
 # 💻 Tech Stack:
+
+<p align="center">
+  My expertise spans across a diverse range of technologies, enabling me to tackle complex challenges across the full development lifecycle.
+</p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -60,20 +65,40 @@
 
 # 🚀 Featured Projects
 
-- ✅ **Exchange Platform (Real-Time Crypto Orderbook)**  
-  Built WebSocket streaming for 100+ crypto pairs, reduced latency by 20%, and improved ingestion rate by 300 msg/sec.
+<p align="center">
+  Here are some of my key projects that showcase my skills and passion for building innovative solutions:
+</p>
 
-- ✅ **Doodle Space (Collaborative Whiteboard)**  
-  Multi-user Excalidraw-style platform supporting 500+ concurrent users with sub-100ms latency.
+- ### **Exchange Platform (Real-Time Crypto Orderbook)**
+  A high-performance, real-time trading system built to handle low-latency order execution at scale. The platform combines modular, event-driven architecture with efficient queuing, real-time communication, and scalable infrastructure. It features WebSocket streaming for 100+ crypto pairs, reduced latency by 20%, and improved ingestion rate by 300 msg/sec.
+  - **Tech Stack**: Next.js, React, Tailwind CSS, Node.js, Express, PostgreSQL, Redis, WebSockets (Socket.io).
+  - **Repository**: [yuvrajnode/exchange](https://github.com/yuvrajnode/exchange)
 
-- ✅ **Solana Web3 DApp & Launchpad**  
-  Token launchpad + wallet interactions supporting 5 wallet types with 99.99% transaction success rate.
+- ### **Doodle Space (Collaborative Whiteboard)**
+  A blazingly fast, intuitive, and collaborative digital canvas for your ideas. This multi-user Excalidraw-style platform supports 500+ concurrent users with sub-100ms latency, offering an infinite canvas, shape tools, and multi-user synchronization.
+  - **Tech Stack**: Next.js, Rough.js, Turborepo, Prisma, WebSockets, Express.js, TypeScript, Zustand.
+  - **Repository**: [yuvrajnode/doodle-space](https://github.com/yuvrajnode/doodle-space)
+
+- ### **Contest Tracker Application**
+  A Next.js web application that aggregates competitive programming contests from platforms like Codeforces, CodeChef, and LeetCode. Users can explore upcoming and past contests, filter by platform, bookmark favorites, and access solution links for completed contests.
+  - **Tech Stack**: React, TypeScript, Next.js App Router, Tailwind CSS, shadcn/ui, date-fns, Lucide React.
+  - **Repository**: [yuvrajnode/Contest-tracker](https://github.com/yuvrajnode/Contest-tracker)
+
+- ### **Solana Web3 DApp & Launchpad**
+  A comprehensive Solana Web3 DApp for wallet management, SOL transfers, and airdrops, coupled with a Token Launchpad built with React and Vite for creating SPL tokens. Designed with a clean UI and wallet-ready architecture for future Web3 integrations, achieving a 99.99% transaction success rate.
+  - **Tech Stack**: React, Vite, Solana Web3.js.
+  - **Repository**: [yuvrajnode/Solana-Dapp](https://github.com/yuvrajnode/Solana-Dapp) and [yuvrajnode/Solana-Launchpad](https://github.com/yuvrajnode/Solana-Launchpad)
+
+- ### **Connect Four Game**
+  A real-time multiplayer Connect Four game built with Node.js, WebSockets, React, and PostgreSQL. It supports PvP, bot gameplay, reconnection handling, and a persistent leaderboard.
+  - **Tech Stack**: Node.js, WebSockets, React, PostgreSQL.
+  - **Repository**: [yuvrajnode/Connect-Four-Game](https://github.com/yuvrajnode/Connect-Four-Game)
 
 ---
 
 # 🌍 Open Source Contributions
 
-- **p5.js** — Improved documentation clarity for `Vector.fromAngle()` for better contributor usability.  
+- **p5.js** — Improved documentation clarity for `Vector.fromAngle()` for better contributor usability.
 - **n8n** — Enhanced frontend PR with timezone-aware date formatting and maintainer feedback iterations.
 
 ---
@@ -100,3 +125,8 @@
 - 🚀 Love building **real-time scalable systems**
 - 🌍 Active open-source contributor in **p5.js & n8n**
 - 🎯 Strong foundations in **DSA, Computer Networks & OOP**
+
+---
+
+<h3 align="center">📫 How to reach me:</h3>
+<p align="center">📧 **yuvrajsingh9027249999@gmail.com**</p>
