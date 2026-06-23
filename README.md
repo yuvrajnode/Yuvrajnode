@@ -1,253 +1,323 @@
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yuvraj%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Web3%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=56&descSize=20" />
+<!-- ████████████████████████████████████████████ HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=YUVRAJ%20SINGH&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20Full-Stack%20%7C%20DevOps%20%7C%20Web3%20%7C%20AI%2FML&descAlignY=58&descSize=20&descColor=c9d1d9" />
 
-<!-- TYPING ANIMATION -->
+<br/>
+
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=750&lines=Building+Real-Time+Systems+%F0%9F%9A%80;Shipping+Smart+Contracts+on+Solana+%E2%9A%A1;Training+LLMs+%26+Building+AI+Agents+%F0%9F%A4%96;Orchestrating+K8s+Clusters+%F0%9F%90%B3;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+real-time+systems+that+scale;Shipping+smart+contracts+on+Solana;Training+LLMs+from+scratch;Orchestrating+Kubernetes+clusters+on+AWS;Open+source+contributor+%E2%80%94+p5.js+%7C+n8n" alt="Typing SVG" />
 </p>
 
-<!-- LIVE COUNTERS -->
+<!-- COUNTERS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajnode&label=Profile%20Views&color=6E56CF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/yuvrajnode?label=Followers&style=for-the-badge&color=6E56CF" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=yuvrajnode&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/yuvrajnode?label=FOLLOWERS&style=for-the-badge&color=7c3aed" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22c55e?style=for-the-badge" />
 </p>
 
----
+<br/>
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-<table border="0" cellpadding="10">
+<!-- ████████████████████████████████████████████ ABOUT -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+
+<br/>
+
+<table border="0" cellpadding="20" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-## 👨‍💻 About Me
-
-> *"I don't just learn stacks — I ship at every layer: full-stack, on-chain, in-cluster, and in-model."*
-
-🎓 **B.Tech CSE** @ Vellore Institute of Technology, Bhopal
-🏢 **SDE Intern** · Actively looking for full-time roles
-🌍 **GSoC Contributor** · p5.js & n8n
-
-<br/>
-
-### 🏅 What I've Actually Shipped
-
-| | |
-|---|---|
-| ⚡ | Real-time exchange handling **300 msg/sec** |
-| 🎨 | Whiteboard supporting **500+ concurrent users** |
-| ⛓️ | Solana programs — **PDAs, CPIs, Anchor, DeFi** |
-| 🐳 | K8s clusters with **HPA, ArgoCD, Prometheus** on AWS |
-| 🤖 | LLMs — **Transformers → Fine-tuning → RLVR → Agents** |
-| 🌐 | **5+ full-stack** production-grade apps |
-
-<br/>
-
-### 🔗 Connect With Me
+<h2>ABOUT ME</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/yuvrajnode" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  I'm a software engineer who goes deep across the full stack. Not surface-level familiarity — I've shipped production systems in web development, DevOps infrastructure, on-chain programs, and machine learning. I build things that run at scale and stay running.
+</p>
+
+<br/>
+
+<table>
+  <tr><td><b>Education</b></td><td>B.Tech CSE · Vellore Institute of Technology, Bhopal</td></tr>
+  <tr><td><b>Role</b></td><td>SDE Intern · Open to full-time opportunities</td></tr>
+  <tr><td><b>Open Source</b></td><td>GSoC Contributor · p5.js · n8n</td></tr>
+  <tr><td><b>Focus</b></td><td>Full-Stack · DevOps · Solana · AI/ML</td></tr>
+</table>
+
+<br/>
+
+<h3>SELECTED METRICS</h3>
+
+```
+Real-time exchange     →   300 msg/sec throughput
+Collaborative canvas   →   500+ concurrent users
+Transaction success    →   99.99% on Solana DApp
+Latency reduction      →   20% via queue architecture
+Cohort training        →   50+ weeks of project-based learning
+```
+
+<br/>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yuvrajnode">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/yuvrajyx/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.instagram.com/yuvrajyx/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:yuvrajsingh9027249999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 </td>
-<td width="45%" valign="middle" align="center">
+<td width="48%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="95%" style="border-radius:12px"/>
 
 <br/><br/>
 
-```text
-💻  Full-Stack     ████████████  Expert
-⛓️  Web3 / Solana  ██████████░░  Advanced
-🚢  DevOps / K8s   █████████░░░  Advanced
-🤖  AI / ML        ████████░░░░  Growing
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajnode&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6&title_color=A78BFA" width="95%"/>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ████████████████████████████████████████████ SKILLS -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<br/>
 
-### 🗣️ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<h2 align="center">TECHNICAL SKILLS</h2>
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square&logoColor=white)
+<br/>
 
-</td>
-<td valign="top" width="33%">
+<h4 align="center">LANGUAGES</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,rust,java,bash&theme=dark&perline=6" />
+</p>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<br/>
 
-### 🗄️ Databases & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<h4 align="center">FRONTEND</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark&perline=6" />
+</p>
 
-</td>
-<td valign="top" width="33%">
+<br/>
 
-### 🚢 DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<h4 align="center">BACKEND & DATABASES</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,redis,postgres,mongodb,mysql,prisma&theme=dark&perline=7" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+<br/>
 
-### 🤖 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+<h4 align="center">DEVOPS & CLOUD</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,grafana,prometheus&theme=dark&perline=7" />
+</p>
 
-</td>
-<td valign="top">
+<br/>
 
-### ⛓️ Web3 & Blockchain
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor_Framework-000000?style=flat-square&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+<h4 align="center">AI / ML & WEB3</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,solana,ethereum&theme=dark&perline=6" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anchor-6E56CF?style=for-the-badge" />
+</p>
 
-</td>
-<td valign="top">
+<br/>
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<h4 align="center">TOOLS</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,neovim,vscode&theme=dark&perline=6" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
 
-</td>
-</tr>
-</table>
+<br/>
 
----
+<!-- ████████████████████████████████████████████ STATS -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
 
-## 🏆 GitHub Trophies
+<br/>
+
+<h2 align="center">GITHUB STATISTICS</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yuvrajnode&theme=tokyonight&hide_border=true&border_radius=10&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="175" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajnode&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=A78BFA" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajnode&theme=tokyo-night&hide_border=true&border_radius=10&area=true&area_color=7c3aed&color=A78BFA&line=7c3aed&point=A78BFA" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuvrajnode&theme=2077" height="155" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvrajnode&theme=2077" height="155" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvrajnode&theme=2077" height="155" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuvrajnode&theme=2077" height="155" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvrajnode&theme=2077" width="100%" />
+</p>
+
+<br/>
+
+<!-- ████████████████████████████████████████████ TROPHIES -->
+<h2 align="center">ACHIEVEMENTS</h2>
+
+<br/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuvrajnode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p>
 
----
+<br/>
 
-## 📊 GitHub Statistics
+<!-- ████████████████████████████████████████████ PROJECTS -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yuvrajnode&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajnode&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" height="180" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajnode&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=10" height="180" />
-</p>
+<h2 align="center">SELECTED WORK</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajnode&theme=tokyo-night&hide_border=true&border_radius=10&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/yuvrajnode">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuvrajnode&theme=2077" height="160" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvrajnode&theme=2077" height="160" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvrajnode&theme=2077" height="160" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuvrajnode&theme=2077" height="160" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/yuvrajnode">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvrajnode&theme=2077" width="100%" />
-  </a>
-</p>
-
----
-
-## 🚀 Featured Projects
+<br/>
 
 <p align="center">
   <a href="https://github.com/yuvrajnode/exchange">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=exchange&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=exchange&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
   </a>
   <a href="https://github.com/yuvrajnode/doodle-space">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=doodle-space&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=doodle-space&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/yuvrajnode/Contest-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=Contest-tracker&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=Contest-tracker&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
   </a>
   <a href="https://github.com/yuvrajnode/Solana-Dapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=Solana-Dapp&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=Solana-Dapp&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/yuvrajnode/Connect-Four-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=Connect-Four-Game&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=Connect-Four-Game&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
   </a>
 </p>
 
-### 📌 Project Highlights
+<br/>
 
-| Project | What it does | Impact | Stack |
-|---|---|---|---|
-| 💱 **[Exchange](https://github.com/yuvrajnode/exchange)** | Real-time crypto orderbook | 300 msg/sec · 20% latency ↓ | Next.js · Redis · WebSockets · PostgreSQL |
-| 🎨 **[Doodle Space](https://github.com/yuvrajnode/doodle-space)** | Collaborative whiteboard | 500+ concurrent · sub-100ms | Turborepo · WebSockets · Prisma · Rough.js |
-| 🏆 **[Contest Tracker](https://github.com/yuvrajnode/Contest-tracker)** | CP contest aggregator | Codeforces · CodeChef · LeetCode | Next.js · shadcn/ui · TypeScript |
-| ⚡ **[Solana DApp](https://github.com/yuvrajnode/Solana-Dapp)** | Wallet + Token Launchpad | 99.99% tx success | React · Solana Web3.js · Wallet Adapter |
-| 🎮 **[Connect Four](https://github.com/yuvrajnode/Connect-Four-Game)** | Real-time multiplayer | PvP + bot + leaderboard | Node.js · WebSockets · PostgreSQL |
+<div align="center">
 
----
+| PROJECT | DESCRIPTION | METRICS | STACK |
+|:---|:---|:---:|:---|
+| [Exchange](https://github.com/yuvrajnode/exchange) | Real-time crypto orderbook with event-driven architecture | 300 msg/sec · 20% latency reduction | Next.js · Redis · WebSockets · PostgreSQL |
+| [Doodle Space](https://github.com/yuvrajnode/doodle-space) | Multi-user collaborative infinite canvas | 500+ concurrent · sub-100ms sync | Turborepo · WebSockets · Prisma · Rough.js |
+| [Contest Tracker](https://github.com/yuvrajnode/Contest-tracker) | CP contest aggregator across major platforms | CF · CodeChef · LeetCode | Next.js · shadcn/ui · TypeScript |
+| [Solana DApp](https://github.com/yuvrajnode/Solana-Dapp) | Wallet management + SPL Token Launchpad | 99.99% tx success | React · Solana Web3.js · Wallet Adapter |
+| [Connect Four](https://github.com/yuvrajnode/Connect-Four-Game) | Real-time multiplayer with persistent leaderboard | PvP + bot + reconnection | Node.js · WebSockets · PostgreSQL |
 
-## 🌍 Open Source Contributions
+</div>
+
+<br/>
+
+<!-- ████████████████████████████████████████████ OPEN SOURCE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+
+<br/>
+
+<h2 align="center">OPEN SOURCE</h2>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/p5.js-GSoC%20Contributor-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/n8n-Contributor-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
--
+<br/>
+
+<div align="center">
+
+| REPOSITORY | CONTRIBUTION |
+|:---|:---|
+| **p5.js** | Improved documentation clarity for `Vector.fromAngle()`. GSoC — issue solving and org contributions. |
+| **n8n** | Frontend PR implementing timezone-aware date formatting. Iterated through maintainer review cycle. |
+
+</div>
+
+<br/>
+
+<!-- ████████████████████████████████████████████ SNAKE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+
+<br/>
+
+<h2 align="center">CONTRIBUTION GRAPH</h2>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajnode/yuvrajnode/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajnode/yuvrajnode/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/yuvrajnode/yuvrajnode/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<details>
+<summary>One-time setup — enable the snake animation</summary>
+<br/>
+
+Create `.github/workflows/snake.yml` inside your `yuvrajnode/yuvrajnode` profile repo:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: yuvrajnode
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions → Generate Snake Animation → Run workflow** once to trigger it immediately.
+</details>
+
+<br/>
+
+<!-- ████████████████████████████████████████████ FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&section=footer" />
