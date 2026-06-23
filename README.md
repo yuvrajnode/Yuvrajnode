@@ -286,33 +286,6 @@ Cohort training        →   50+ weeks of project-based learning
 <summary>One-time setup — enable the snake animation</summary>
 <br/>
 
-Create `.github/workflows/snake.yml` inside your `yuvrajnode/yuvrajnode` profile repo:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: yuvrajnode
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 Then go to **Actions → Generate Snake Animation → Run workflow** once to trigger it immediately.
 </details>
