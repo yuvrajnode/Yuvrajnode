@@ -47,7 +47,7 @@
 <br/>
 
 <!-- ████████████████████████████████████████████ ABOUT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+<img width="100%" src="assets/divider.svg" alt="" />
 
 <table border="0" cellpadding="18" width="100%">
 <tr>
@@ -72,11 +72,9 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="92%" style="border-radius:12px"/>
+<img src="assets/ai-core.svg" width="88%" alt="AI core animation"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajnode&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6&title_color=A78BFA" width="92%"/>
+<p><sub>⬆ my head, visualized — an LLM core with a voice waveform</sub></p>
 
 </td>
 </tr>
@@ -85,7 +83,7 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <br/>
 
 <!-- ████████████████████████████████████████████ SKILLS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+<img width="100%" src="assets/divider.svg" alt="" />
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 <br/>
@@ -158,7 +156,7 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <br/>
 
 <!-- ████████████████████████████████████████████ CURRENT BUILD -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+<img width="100%" src="assets/divider.svg" alt="" />
 
 <h2 align="center">🎙️ Now Building — Voice AI Platform</h2>
 
@@ -178,7 +176,7 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <br/>
 
 <!-- ████████████████████████████████████████████ PROJECTS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+<img width="100%" src="assets/divider.svg" alt="" />
 
 <h2 align="center">🚀 Selected Work</h2>
 <br/>
@@ -228,7 +226,7 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <br/>
 
 <!-- ████████████████████████████████████████████ OPEN SOURCE & ACHIEVEMENTS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+<img width="100%" src="assets/divider.svg" alt="" />
 
 <h2 align="center">🌐 Open Source & Achievements</h2>
 <br/>
@@ -255,7 +253,7 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <br/>
 
 <!-- ████████████████████████████████████████████ STATS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+<img width="100%" src="assets/divider.svg" alt="" />
 
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
@@ -263,8 +261,17 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yuvrajnode&theme=tokyonight&hide_border=true&border_radius=10&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajnode&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=A78BFA" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajnode&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" height="170" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajnode&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&title_color=A78BFA" height="170" />
+</p>
+
+<!-- If any stats card ever shows a broken "?" image: the shared github-readme-stats.vercel.app
+     instance is rate-limited at peak times. Permanent fix (5 min): deploy your own free instance —
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own — then swap the domain
+     in these URLs. -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajnode&theme=tokyo-night&hide_border=true&border_radius=10&area=true&area_color=7c3aed&color=A78BFA&line=7c3aed&point=A78BFA" width="100%" />
@@ -277,7 +284,19 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <br/>
 
 <!-- ████████████████████████████████████████████ SNAKE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+<img width="100%" src="assets/divider.svg" alt="" />
+
+<h2 align="center">🏙️ 3D Contribution City</h2>
+
+<p align="center"><sub>my year of commits, rendered as an isometric 3D city — regenerated daily by GitHub Actions</sub></p>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+</p>
+
+<br/>
+
+<img width="100%" src="assets/divider.svg" alt="" />
 
 <h2 align="center">🐍 Contribution Graph</h2>
 <br/>
