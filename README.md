@@ -1,25 +1,27 @@
-<!-- ████████████████████████████████████████████ HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=240&section=header&text=YUVRAJ%20SINGH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Web3%20%C2%B7%20DevOps%20Engineer&descAlignY=56&descSize=20&descColor=e2d9ff" />
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                        HERO BANNER                           -->
+<!-- ████████████████████████████████████████████████████████████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=YUVRAJ%20SINGH&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Development%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=19&descColor=e2d9ff" />
 
-<!-- TYPING -->
+<!-- TYPING INTRO -->
 <p align="center">
   <a href="https://github.com/yuvrajnode">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&height=45&lines=Building+across+Full-Stack%2C+AI%2FML%2C+Web3+%26+DevOps.;Autonomous+AI+agents+%E2%86%92+tool-use+%2B+RAG+%2B+memory.;Fine-tuned+LLMs+%E2%86%92+LoRA+%2B+RLHF+%2B+evals.;Real-time+exchange+%E2%86%92+300%2B+msg%2Fsec.;Solana+%2B+Ethereum+%E2%86%92+Anchor%2C+Solidity%2C+smart+contracts.;Kubernetes+%2B+Docker+%2B+CI%2FCD+%E2%86%92+ship+%26+scale+on+AWS.;GSoC+open-source+%E2%86%92+p5.js+%7C+n8n." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=45&lines=SDE+%40+Innovativus+%E2%80%94+promoted+from+intern+in+4+months+%F0%9F%9A%80;Building+a+production+Voice+AI+platform+%F0%9F%8E%99%EF%B8%8F;Voice+cloning+%E2%86%92+F5-TTS+%2B+Supertonic+neural+TTS;Twilio+phone+assistant+%E2%86%92+STT+%E2%86%92+LLM+%E2%86%92+TTS+in+real+time;Autonomous+AI+agents+%E2%86%92+tool-use+%2B+RAG+%2B+memory;Fine-tuned+LLMs+%E2%86%92+LoRA+%2B+RLHF+%2B+evals;Real-time+exchange+%E2%86%92+300%2B+msg%2Fsec+%7C+1000%2B+clients;GSoC+open-source+%E2%86%92+p5.js+%7C+n8n" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- QUICK PITCH -->
 <p align="center">
-  <b>B.Tech CSE @ VIT</b> &nbsp;·&nbsp; SDE Intern &nbsp;·&nbsp; <b>Full-Stack · AI/ML · Web3 · DevOps</b> &nbsp;·&nbsp; GSoC Contributor &nbsp;·&nbsp; <b>Open to full-time roles</b>
+  <b>Software Development Engineer @ Innovativus</b> &nbsp;·&nbsp; B.Tech CSE @ VIT &nbsp;·&nbsp; GSoC Contributor &nbsp;·&nbsp; <b>Full-Stack · AI/ML · Web3 · DevOps</b>
 </p>
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22c55e?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
   <a href="https://www.linkedin.com/in/yuvrajnode"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
   &nbsp;
   <a href="mailto:yuvrajsingh9027249999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="https://github.com/yuvrajnode"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
   &nbsp;
   <a href="https://www.instagram.com/yuvrajyx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
 </p>
@@ -35,10 +37,10 @@
 <!-- ████████████████████████████████████████████ IMPACT STRIP -->
 <div align="center">
 
-| 🟣 AI Agents | 🟣 Throughput | 🟣 Concurrency | 🟣 On-Chain |
+| 🎙️ Voice AI | 🤖 AI Agents | ⚡ Throughput | 🔗 On-Chain |
 |:---:|:---:|:---:|:---:|
-| **80%+** task success | **300+** msg/sec | **500+** users | **99.99%** tx |
-| autonomous coding agent | real-time exchange | collaborative canvas | Solana DApp |
+| **STT → LLM → TTS** | **80%+** task success | **300+** msg/sec | **99.99%** tx |
+| cloning + Twilio calls | autonomous coding agent | real-time exchange | Solana DApp |
 
 </div>
 
@@ -53,15 +55,18 @@
 
 ### 👋 About Me
 
-I'm a versatile software engineer who builds **across the full stack, AI/ML, Web3, and cloud-native infrastructure** — going **deep**, not surface-level. I've shipped production web apps, **LLM-powered systems and autonomous agents**, on-chain **Solana & Ethereum** programs, and **DevOps pipelines** that ship and scale. I build things that **run at scale and stay running**.
+**Software Development Engineer** at Innovativus Technologies — **promoted from intern to full-time in 4 months**. I build across **four domains, going deep in each**: production web apps, **LLM-powered & voice AI systems**, on-chain programs, and cloud-native infrastructure.
+
+Right now I'm building a **production Voice AI platform**: real-time two-way voice conversations with AI assistants, **zero-shot voice cloning** (F5-TTS + Supertonic), a **Twilio phone assistant**, and a **RAG knowledge base** — so users talk to their own data in any voice they choose.
 
 ```text
-🔭  Currently    →  SDE Intern, building real-time + AI systems
-🌱  Learning     →  LLM internals, RAG, agentic systems
+🔭  Currently    →  SDE @ Innovativus · Voice AI platform
+🎙️  Shipping     →  voice cloning · Twilio assistant · RAG
+🌱  Learning     →  LLM internals · agentic systems
 🤝  Open source  →  GSoC · p5.js · n8n
-💬  Ask me about →  LLMs · RAG · Next.js · Solana · Kubernetes
+💬  Ask me about →  LLMs · TTS · Next.js · Solana · K8s
 📫  Reach me     →  yuvrajsingh9027249999@gmail.com
-⚡  Fun fact     →  I train & fine-tune LLMs for fun
+⚡  Fun fact     →  I clone voices & fine-tune LLMs for fun
 ```
 
 </td>
@@ -82,34 +87,35 @@ I'm a versatile software engineer who builds **across the full stack, AI/ML, Web
 <!-- ████████████████████████████████████████████ SKILLS -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
 
-<h2 align="center">🛠️ Tech Stack — Full-Stack · AI/ML · Web3 · DevOps</h2>
+<h2 align="center">🛠️ Tech Arsenal</h2>
 <br/>
 
 <!-- LANGUAGES -->
 <p align="center">
   <b>💻 Languages</b>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,go,rust,solidity,bash&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,rust,solidity,bash&theme=dark&perline=7" />
 </p>
 
 <br/>
 
-<!-- AI / ML -->
+<!-- AI / ML — the headline act -->
 <p align="center">
-  <b>🤖 AI / ML &amp; LLMs</b>
+  <b>🤖 AI / ML · LLMs · Voice</b>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=py,pytorch&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/RAG-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-pgvector%20%7C%20Pinecone-5b21b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20%2B%20Vector%20DBs-pgvector%20%7C%20Pinecone-7c3aed?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Fine--Tuning-LoRA%20%7C%20RLHF-A78BFA?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Evals%20%26%20Observability-6E56CF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers%20%7C%20CNN%20%7C%20RNN-9333ea?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents%20%26%20Evals-6E56CF?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/🎙️%20Voice%20Cloning-F5--TTS%20%7C%20Supertonic-f472b6?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Twilio%20Voice-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/TTS%20%7C%20STT%20Pipelines-22d3ee?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <br/>
@@ -121,9 +127,6 @@ I'm a versatile software engineer who builds **across the full stack, AI/ML, Web
 **🎨 Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark&perline=6" />
-<br/>
-<img src="https://img.shields.io/badge/Recoil%20%7C%20Jotai-3578E5?style=flat-square" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
 
 </td>
 <td align="center" width="50%">
@@ -131,49 +134,46 @@ I'm a versatile software engineer who builds **across the full stack, AI/ML, Web
 **⚙️ Backend & Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,redis,postgres,mongodb,mysql,prisma&theme=dark&perline=7" />
-<br/>
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-**☁️ DevOps, Cloud & System Design**
+**☁️ DevOps & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,grafana,prometheus&theme=dark&perline=7" />
-<br/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" />
-<img src="https://img.shields.io/badge/Sharding%20%7C%20Replication-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/badge/Rate%20Limiting%20%7C%20Queues-5b21b6?style=flat-square" />
 
 </td>
 <td align="center">
 
-**⛓️ Web3 & Blockchain**
+**⛓️ Web3 & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=solana,ethereum,solidity&theme=dark&perline=6" />
-<br/>
-<img src="https://img.shields.io/badge/Anchor-6E56CF?style=flat-square" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-181A1F?style=flat-square" />
-<img src="https://img.shields.io/badge/Foundry-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=solana,ethereum,git,postman,neovim,vscode&theme=dark&perline=6" />
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <br/>
-  <b>🧰 Tooling</b>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,postman,neovim,vscode&theme=dark&perline=6" />
-</p>
+<br/>
+
+<!-- ████████████████████████████████████████████ CURRENT BUILD -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
+
+<h2 align="center">🎙️ Now Building — Voice AI Platform</h2>
+
+<p align="center"><i>Production voice AI @ Innovativus — talk to AI assistants grounded in your own knowledge base, in any voice you choose.</i></p>
+
+<div align="center">
+
+| Capability | How it works |
+|:---|:---|
+| 🗣️ **Real-time voice conversations** | Two-way voice chat with AI assistants over a live STT → LLM → TTS loop |
+| 🧬 **Zero-shot voice cloning** | F5-TTS + Supertonic neural TTS — natural cloned speech from seconds of reference audio |
+| ☎️ **Twilio phone assistant** | Automated inbound/outbound calls with configurable voice personas |
+| 📚 **RAG knowledge base** | Conversations grounded in the user's own documents & data |
+
+</div>
 
 <br/>
 
@@ -184,11 +184,7 @@ I'm a versatile software engineer who builds **across the full stack, AI/ML, Web
 <br/>
 
 <!--
-  ⚠️ AI PROJECT CARDS: create these repos, then uncomment the two pins below
-  (the cards only render once a public repo with the exact name exists).
-  Suggested repo names: ai-coding-agent , llm-finetuning
--->
-<!--
+  ⚠️ Create repos `ai-coding-agent` and `llm-finetuning`, then uncomment these pin cards:
 <p align="center">
   <a href="https://github.com/yuvrajnode/ai-coding-agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=ai-coding-agent&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
@@ -218,56 +214,41 @@ I'm a versatile software engineer who builds **across the full stack, AI/ML, Web
 
 <div align="center">
 
-| Project | Domain | What it does | Impact | Stack |
-|:---|:---:|:---|:---:|:---|
-| **🤖 [AI Coding Agent](https://github.com/yuvrajnode)** | AI/ML | Autonomous agent — plan·act·observe, tool-use, memory + RAG | `80%+ task success` | Python · LangGraph · RAG · pgvector |
-| **🧠 [LLM Fine-Tuning Pipeline](https://github.com/yuvrajnode)** | AI/ML | LoRA/PEFT + RLHF with automated evals on Hugging Face | `+25% accuracy` | PyTorch · Hugging Face · LoRA · RLHF |
-| **⚡ [Exchange](https://github.com/yuvrajnode/exchange)** | Full-Stack | Real-time crypto orderbook, event-driven | `300+ msg/sec` · `−20% latency` | Next.js · Redis · WebSockets · PostgreSQL |
-| **🎨 [Doodle Space](https://github.com/yuvrajnode/doodle-space)** | Full-Stack | Multi-user infinite collaborative canvas | `500+ concurrent` · `<100ms sync` | Turborepo · WebSockets · Prisma |
-| **🔗 [Solana DApp](https://github.com/yuvrajnode/Solana-Dapp)** | Web3 | Wallet manager + SPL Token Launchpad | `99.99% tx success` | React · Solana Web3.js · Anchor |
-| **🏆 [Contest Tracker](https://github.com/yuvrajnode/Contest-tracker)** | Full-Stack | CP contest aggregator across platforms | `CF · CC · LeetCode` | Next.js · shadcn/ui · TypeScript |
+| Project | Domain | Impact | Stack |
+|:---|:---:|:---:|:---|
+| **🤖 [Autonomous AI Coding Agent](https://github.com/yuvrajnode)** | AI/ML | `80%+ task success` · `−40% hallucinations` | Python · LangGraph · RAG · pgvector |
+| **🧠 [LLM Fine-Tuning Pipeline](https://github.com/yuvrajnode)** | AI/ML | `+25% accuracy` · `15+ checkpoints` | PyTorch · Hugging Face · LoRA · RLHF |
+| **⚡ [Real-Time Crypto Exchange](https://github.com/yuvrajnode/exchange)** | Full-Stack | `300+ msg/sec` · `1,000+ clients` | Next.js · WebSockets · Redis · Postgres |
+| **🎨 [Doodle Space](https://github.com/yuvrajnode/doodle-space)** | Full-Stack | `500+ concurrent` · `<100ms sync` | Turborepo · WebSockets · Prisma |
+| **🔗 [Solana DApp & Launchpad](https://github.com/yuvrajnode/Solana-Dapp)** | Web3 | `99.99% tx success` | React · Web3.js · SPL · Anchor |
+| **🏆 [Contest Tracker](https://github.com/yuvrajnode/Contest-tracker)** | Full-Stack | `CF · CC · LeetCode` | Next.js · shadcn/ui · TypeScript |
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████ WHAT I'VE BUILT & LEARNED -->
+<!-- ████████████████████████████████████████████ OPEN SOURCE & ACHIEVEMENTS -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
 
-<h2 align="center">🧭 Domains I Work In</h2>
-<br/>
-
-<div align="center">
-
-| Domain | Depth |
-|:---|:---|
-| **🌐 Full-Stack Web** | React · Next.js (SSR/SSG) · Node · Express · tRPC · WebSockets · Prisma · Postgres/Mongo · Monorepos · Auth/JWT · Testing |
-| **🤖 AI / ML & LLMs** | Transformers · attention (KV-cache, GQA, MLA) · RAG · vector DBs · agents from scratch · memory · fine-tuning (LoRA/RLHF) · evals · LLM observability |
-| **⛓️ Web3 / Blockchain** | Solana (SPL, PDAs, CPIs, Anchor) · Ethereum (Solidity, ERC-20, OpenZeppelin, Hardhat/Foundry) · DEX/AMMs · bridges · Rust |
-| **☁️ DevOps & System Design** | Docker · Kubernetes (Helm, ArgoCD, HPA, ingress) · AWS (ECS/ECR/ASG) · CI/CD · Prometheus/Grafana · Redis streams · scaling, sharding, rate limiting |
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████████ OPEN SOURCE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3" />
-
-<h2 align="center">🌐 Open Source</h2>
+<h2 align="center">🌐 Open Source & Achievements</h2>
 <br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/p5.js-GSoC%20Contributor-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/n8n-Contributor-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Meta-Version%20Control%20Certified-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
 <div align="center">
 
-| Repository | Contribution |
-|:---|:---|
-| **p5.js** | Improved documentation clarity for `Vector.fromAngle()`. GSoC — issue solving and org contributions. |
-| **n8n** | Frontend PR implementing timezone-aware date formatting. Iterated through maintainer review cycles. |
+| 🏅 | Highlight |
+|:---:|:---|
+| 🔀 | Merged PRs into **p5.js / Processing** & **n8n** across 2 open-source orgs as a **GSoC contributor** |
+| 🤖 | Shipped **4 production-grade AI projects** (agents, RAG, fine-tuning, evals) in a 20+ module AI/ML program |
+| 🧱 | Built **10+ full-stack apps** in the **100xDevs Full-Stack, DevOps & Blockchain Cohort** |
+| 🇮🇳 | Proposed a citizen grievance platform at **Smart India Hackathon 2025** (national level) |
 
 </div>
 
@@ -312,6 +293,6 @@ I'm a versatile software engineer who builds **across the full stack, AI/ML, Web
 <br/>
 
 <!-- ████████████████████████████████████████████ FOOTER -->
-<p align="center"><i>"Full-stack depth, AI/ML edge, on-chain & cloud-native — build things that run at scale and stay running."</i></p>
+<p align="center"><i>"Give AI a voice, give the web real-time speed — and make it all run at scale."</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=140&section=footer&text=Let's%20build%20something%20great&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=twinkling" />
