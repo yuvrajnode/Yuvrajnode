@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="26" viewBox="0 0 1200 26" role="img" aria-label="animated divider">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#22d3ee;#f472b6;#7c3aed" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#f472b6;#7c3aed;#22d3ee" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#f472b6">
+        <animate attributeName="stop-color" values="#f472b6;#7c3aed;#22d3ee;#f472b6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M0,13 Q150,3 300,13 T600,13 T900,13 T1200,13" fill="none" stroke="url(#g)" stroke-width="2.5" filter="url(#glow)" stroke-linecap="round" stroke-dasharray="14 10">
+    <animate attributeName="stroke-dashoffset" values="0;-96" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+  <circle r="4" fill="#22d3ee" filter="url(#glow)">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M0,13 Q150,3 300,13 T600,13 T900,13 T1200,13"/>
+    <animate attributeName="fill" values="#22d3ee;#a78bfa;#f472b6;#22d3ee" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3" fill="#a78bfa" filter="url(#glow)">
+    <animateMotion dur="5s" begin="2.5s" repeatCount="indefinite" path="M1200,13 Q1050,3 900,13 T600,13 T300,13 T0,13"/>
+  </circle>
+</svg>

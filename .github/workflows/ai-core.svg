@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420" role="img" aria-label="AI core animation">
+  <defs>
+    <radialGradient id="core" cx="38%" cy="34%" r="70%">
+      <stop offset="0%" stop-color="#e9d5ff"/>
+      <stop offset="35%" stop-color="#a78bfa"/>
+      <stop offset="75%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="60%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="85%" stop-color="#a78bfa" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- pulsing halo -->
+  <circle cx="210" cy="210" r="150" fill="url(#halo)">
+    <animate attributeName="r" values="140;165;140" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".8;1;.8" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- core sphere (3D shading) -->
+  <circle cx="210" cy="210" r="74" fill="url(#core)" filter="url(#soft)">
+    <animate attributeName="r" values="74;78;74" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <!-- specular highlight -->
+  <ellipse cx="185" cy="182" rx="26" ry="16" fill="#ffffff" opacity=".35">
+    <animate attributeName="opacity" values=".35;.55;.35" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- orbit ring 1 -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 210 210" to="360 210 210" dur="9s" repeatCount="indefinite"/>
+    <ellipse cx="210" cy="210" rx="150" ry="52" fill="none" stroke="#22d3ee" stroke-width="1.6" opacity=".7" stroke-dasharray="6 8"/>
+    <circle cx="360" cy="210" r="7" fill="#22d3ee" filter="url(#soft)"/>
+  </g>
+
+  <!-- orbit ring 2 (tilted) -->
+  <g transform="rotate(60 210 210)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360 210 210" to="0 210 210" dur="12s" repeatCount="indefinite"/>
+      <ellipse cx="210" cy="210" rx="150" ry="52" fill="none" stroke="#a78bfa" stroke-width="1.6" opacity=".7" stroke-dasharray="6 8"/>
+      <circle cx="60" cy="210" r="6" fill="#a78bfa" filter="url(#soft)"/>
+    </g>
+  </g>
+
+  <!-- orbit ring 3 (tilted other way) -->
+  <g transform="rotate(-60 210 210)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 210 210" to="360 210 210" dur="15s" repeatCount="indefinite"/>
+      <ellipse cx="210" cy="210" rx="150" ry="52" fill="none" stroke="#f472b6" stroke-width="1.6" opacity=".65" stroke-dasharray="6 8"/>
+      <circle cx="360" cy="210" r="5" fill="#f472b6" filter="url(#soft)"/>
+    </g>
+  </g>
+
+  <!-- voice waveform inside core -->
+  <g stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity=".9">
+    <line x1="186" y1="210" x2="186" y2="210">
+      <animate attributeName="y1" values="202;190;206;196;202" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="218;230;214;224;218" dur="1.2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="198" y1="210" x2="198" y2="210">
+      <animate attributeName="y1" values="196;206;188;204;196" dur="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="224;214;232;216;224" dur="1.1s" repeatCount="indefinite"/>
+    </line>
+    <line x1="210" y1="210" x2="210" y2="210">
+      <animate attributeName="y1" values="190;204;186;200;190" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="230;216;234;220;230" dur="1s" repeatCount="indefinite"/>
+    </line>
+    <line x1="222" y1="210" x2="222" y2="210">
+      <animate attributeName="y1" values="198;188;206;194;198" dur="1.15s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="222;232;214;226;222" dur="1.15s" repeatCount="indefinite"/>
+    </line>
+    <line x1="234" y1="210" x2="234" y2="210">
+      <animate attributeName="y1" values="204;194;208;198;204" dur="1.25s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="216;226;212;222;216" dur="1.25s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- floating particles -->
+  <circle cx="80" cy="120" r="3" fill="#a78bfa" opacity=".8">
+    <animate attributeName="cy" values="120;100;120" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".8;.2;.8" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="340" cy="300" r="4" fill="#22d3ee" opacity=".7">
+    <animate attributeName="cy" values="300;320;300" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".7;.2;.7" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="330" cy="95" r="3" fill="#f472b6" opacity=".7">
+    <animate attributeName="cx" values="330;345;330" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".7;.15;.7" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="95" cy="315" r="3" fill="#22d3ee" opacity=".6">
+    <animate attributeName="cx" values="95;80;95" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

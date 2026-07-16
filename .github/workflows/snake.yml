@@ -1,15 +1,13 @@
-# Save this file in your yuvrajnode/yuvrajnode repo at: .github/workflows/snake.yml
-# Then: Actions tab -> "Generate contribution snake" -> Run workflow (once).
-# It regenerates daily after that.
-name: Generate contribution snake
+# Save as: .github/workflows/snake.yml  (in your yuvrajnode/yuvrajnode repo)
+# Then: Actions tab → "generate snake" → Run workflow (first run), auto-runs daily after.
+name: generate snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
 
 permissions:
   contents: write
@@ -19,14 +17,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake grid
+        uses: Platane/snk@v3
         with:
           github_user_name: yuvrajnode
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
