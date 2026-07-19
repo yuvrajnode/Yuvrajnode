@@ -55,7 +55,7 @@
 
 ### 👋 About Me
 
-**Software Development Engineer** at Innovativus Technologies — **promoted from intern to full-time in 4 months**. I build across **four domains, going deep in each**: production web apps, **LLM-powered & voice AI systems**, on-chain programs, and cloud-native infrastructure.
+**Software Development Engineer** at Innovativus Technologies — **promoted from intern to full-time in 3 months**. I build across **four domains, going deep in each**: production web apps, **LLM-powered & voice AI systems**, on-chain programs, and cloud-native infrastructure.
 
 Right now I'm building a **production Voice AI platform**: real-time two-way voice conversations with AI assistants, **zero-shot voice cloning** (F5-TTS + Supertonic), a **Twilio phone assistant**, and a **RAG knowledge base** — so users talk to their own data in any voice they choose.
 
