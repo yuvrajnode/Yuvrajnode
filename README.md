@@ -151,7 +151,7 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HuggingFace/Transformer-Contributer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace/Transformer-Contributor-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/n8n-Contributor-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   &nbsp;
