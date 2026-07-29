@@ -6,7 +6,7 @@
 <!-- TYPING INTRO -->
 <p align="center">
   <a href="https://github.com/yuvrajnode">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=45&lines=SDE+%40+Innovativus+%E2%80%94+promoted+from+intern+in+4+months+%F0%9F%9A%80;Building+a+production+Voice+AI+platform+%F0%9F%8E%99%EF%B8%8F;Voice+cloning+%E2%86%92+F5-TTS+%2B+Supertonic+neural+TTS;Twilio+phone+assistant+%E2%86%92+STT+%E2%86%92+LLM+%E2%86%92+TTS+in+real+time;Autonomous+AI+agents+%E2%86%92+tool-use+%2B+RAG+%2B+memory;Fine-tuned+LLMs+%E2%86%92+LoRA+%2B+RLHF+%2B+evals;Real-time+exchange+%E2%86%92+300%2B+msg%2Fsec+%7C+1000%2B+clients;GSoC+open-source+%E2%86%92+p5.js+%7C+n8n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=45&lines=Open-Source+%E2%86%92+Huggingface/Transformer+%7C+n8n;Building+a+production+Voice+AI+platform+%F0%9F%8E%99%EF%B8%8F;Voice+cloning+%E2%86%92+F5-TTS+%2B+Supertonic+neural+TTS;Twilio+phone+assistant+%E2%86%92+STT+%E2%86%92+LLM+%E2%86%92+TTS+in+real+time;Autonomous+AI+agents+%E2%86%92+tool-use+%2B+RAG+%2B+memory;Fine-tuned+LLMs+%E2%86%92+LoRA+%2B+RLHF+%2B+evals;Real-time+exchange+%E2%86%92+300%2B+msg%2Fsec+%7C+1000%2B+clients" alt="Typing SVG" />
   </a>
 </p>
 
