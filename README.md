@@ -12,7 +12,7 @@
 
 <!-- QUICK PITCH -->
 <p align="center">
-  <b>Software Development Engineer @ Innovativus</b> &nbsp;·&nbsp; B.Tech CSE @ VIT &nbsp;·&nbsp; GSoC Contributor &nbsp;·&nbsp; <b>Full-Stack · AI/ML · Web3 · DevOps</b>
+  <b>Software Development Engineer @ Innovativus</b> &nbsp;·&nbsp; B.Tech CSE @ VIT &nbsp;·&nbsp; <b>Full-Stack · AI/ML · Web3 · DevOps</b>
 </p>
 
 <!-- BADGES -->
@@ -34,17 +34,6 @@
 
 <br/>
 
-<!-- ████████████████████████████████████████████ IMPACT STRIP -->
-<div align="center">
-
-| 🎙️ Voice AI | 🤖 AI Agents | ⚡ Throughput | 🔗 On-Chain |
-|:---:|:---:|:---:|:---:|
-| **STT → LLM → TTS** | **80%+** task success | **300+** msg/sec | **99.99%** tx |
-| cloning + Twilio calls | autonomous coding agent | real-time exchange | Solana DApp |
-
-</div>
-
-<br/>
 
 <!-- ████████████████████████████████████████████ ABOUT -->
 <img width="100%" src="assets/divider.svg" alt="" />
@@ -53,20 +42,19 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👋 About Me
+### 👋 About Me :)
 
-**Software Development Engineer** at Innovativus Technologies — **promoted from intern to full-time in 3 months**. I build across **four domains, going deep in each**: production web apps, **LLM-powered & voice AI systems**, on-chain programs, and cloud-native infrastructure.
+**Software Development Engineer**. I build across **four domains, going deep in each**: production web apps, **LLM-powered & voice AI systems**, on-chain programs, and cloud-native infrastructure.
 
 Right now I'm building a **production Voice AI platform**: real-time two-way voice conversations with AI assistants, **zero-shot voice cloning** (F5-TTS + Supertonic), a **Twilio phone assistant**, and a **RAG knowledge base** — so users talk to their own data in any voice they choose.
 
 ```text
-🔭  Currently    →  SDE @ Innovativus · Voice AI platform
-🎙️  Shipping     →  voice cloning · Twilio assistant · RAG
-🌱  Learning     →  LLM internals · agentic systems
-🤝  Open source  →  GSoC · p5.js · n8n
-💬  Ask me about →  LLMs · TTS · Next.js · Solana · K8s
-📫  Reach me     →  yuvrajsingh9027249999@gmail.com
-⚡  Fun fact     →  I clone voices & fine-tune LLMs for fun
+  Currently    →  SDE @ Innovativus · Voice AI platform
+  Shipping     →  voice cloning · Twilio assistant · RAG
+  Learning     →  LLM internals · agentic systems
+  Open source  →  Huggingface/Transformer · n8n
+  Ask me about →  LLMs · TTS · Next.js · Solana · K8s
+  Reach me     →  yuvrajsingh9027249999@gmail.com
 ```
 
 </td>
@@ -74,7 +62,7 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 
 <img src="assets/ai-core.svg" width="88%" alt="AI core animation"/>
 
-<p><sub>⬆ my head, visualized — an LLM core with a voice waveform</sub></p>
+<p><sub>My head, visualized an LLM core with a voice waveform</sub></p>
 
 </td>
 </tr>
@@ -85,12 +73,12 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <!-- ████████████████████████████████████████████ SKILLS -->
 <img width="100%" src="assets/divider.svg" alt="" />
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<h2 align="center">Tech Arsenal</h2>
 <br/>
 
 <!-- LANGUAGES -->
 <p align="center">
-  <b>💻 Languages</b>
+  <b>Languages</b>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=py,ts,js,java,rust,solidity,bash&theme=dark&perline=7" />
 </p>
@@ -99,7 +87,7 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 
 <!-- AI / ML — the headline act -->
 <p align="center">
-  <b>🤖 AI / ML · LLMs · Voice</b>
+  <b>AI / ML · LLMs · Voice</b>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
   &nbsp;
@@ -107,11 +95,11 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
   <img src="https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/RAG%20%2B%20Vector%20DBs-pgvector%20%7C%20Pinecone-7c3aed?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/RAG%20%2B%20Vector%20DBs-pgvector%20%7C%20Pinecone-7c3aed?style=for-the-badge&labelColor=orange" />
   <img src="https://img.shields.io/badge/Fine--Tuning-LoRA%20%7C%20RLHF-A78BFA?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/AI%20Agents%20%26%20Evals-6E56CF?style=for-the-badge" />
   <br/>
-  <img src="https://img.shields.io/badge/🎙️%20Voice%20Cloning-F5--TTS%20%7C%20Supertonic-f472b6?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/%20Voice%20Cloning-F5--TTS%20%7C%20Supertonic-f472b6?style=for-the-badge&labelColor=green" />
   <img src="https://img.shields.io/badge/Twilio%20Voice-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/TTS%20%7C%20STT%20Pipelines-22d3ee?style=for-the-badge&labelColor=0d1117" />
 </p>
@@ -122,14 +110,14 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <tr>
 <td align="center" width="50%">
 
-**🎨 Frontend**
+**Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark&perline=6" />
 
 </td>
 <td align="center" width="50%">
 
-**⚙️ Backend & Databases**
+**Backend & Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,redis,postgres,mongodb,mysql,prisma&theme=dark&perline=7" />
 
@@ -138,14 +126,14 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <tr>
 <td align="center">
 
-**☁️ DevOps & Cloud**
+**DevOps & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,grafana,prometheus&theme=dark&perline=7" />
 
 </td>
 <td align="center">
 
-**⛓️ Web3 & Tooling**
+**Web3 & Tooling**
 <br/>
 <img src="https://skillicons.dev/icons?i=solana,ethereum,git,postman,neovim,vscode&theme=dark&perline=6" />
 
@@ -155,75 +143,6 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 
 <br/>
 
-<!-- ████████████████████████████████████████████ CURRENT BUILD -->
-<img width="100%" src="assets/divider.svg" alt="" />
-
-<h2 align="center">🎙️ Now Building — Voice AI Platform</h2>
-
-<p align="center"><i>Production voice AI @ Innovativus — talk to AI assistants grounded in your own knowledge base, in any voice you choose.</i></p>
-
-<div align="center">
-
-| Capability | How it works |
-|:---|:---|
-| 🗣️ **Real-time voice conversations** | Two-way voice chat with AI assistants over a live STT → LLM → TTS loop |
-| 🧬 **Zero-shot voice cloning** | F5-TTS + Supertonic neural TTS — natural cloned speech from seconds of reference audio |
-| ☎️ **Twilio phone assistant** | Automated inbound/outbound calls with configurable voice personas |
-| 📚 **RAG knowledge base** | Conversations grounded in the user's own documents & data |
-
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████████ PROJECTS -->
-<img width="100%" src="assets/divider.svg" alt="" />
-
-<h2 align="center">🚀 Selected Work</h2>
-<br/>
-
-<!--
-  ⚠️ Create repos `ai-coding-agent` and `llm-finetuning`, then uncomment these pin cards:
-<p align="center">
-  <a href="https://github.com/yuvrajnode/ai-coding-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=ai-coding-agent&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
-  </a>
-  <a href="https://github.com/yuvrajnode/llm-finetuning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=llm-finetuning&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
-  </a>
-</p>
--->
-
-<p align="center">
-  <a href="https://github.com/yuvrajnode/exchange">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=exchange&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
-  </a>
-  <a href="https://github.com/yuvrajnode/doodle-space">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=doodle-space&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/yuvrajnode/Solana-Dapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=Solana-Dapp&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
-  </a>
-  <a href="https://github.com/yuvrajnode/Contest-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajnode&repo=Contest-tracker&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
-  </a>
-</p>
-
-<div align="center">
-
-| Project | Domain | Impact | Stack |
-|:---|:---:|:---:|:---|
-| **🤖 [Autonomous AI Coding Agent](https://github.com/yuvrajnode)** | AI/ML | `80%+ task success` · `−40% hallucinations` | Python · LangGraph · RAG · pgvector |
-| **🧠 [LLM Fine-Tuning Pipeline](https://github.com/yuvrajnode)** | AI/ML | `+25% accuracy` · `15+ checkpoints` | PyTorch · Hugging Face · LoRA · RLHF |
-| **⚡ [Real-Time Crypto Exchange](https://github.com/yuvrajnode/exchange)** | Full-Stack | `300+ msg/sec` · `1,000+ clients` | Next.js · WebSockets · Redis · Postgres |
-| **🎨 [Doodle Space](https://github.com/yuvrajnode/doodle-space)** | Full-Stack | `500+ concurrent` · `<100ms sync` | Turborepo · WebSockets · Prisma |
-| **🔗 [Solana DApp & Launchpad](https://github.com/yuvrajnode/Solana-Dapp)** | Web3 | `99.99% tx success` | React · Web3.js · SPL · Anchor |
-| **🏆 [Contest Tracker](https://github.com/yuvrajnode/Contest-tracker)** | Full-Stack | `CF · CC · LeetCode` | Next.js · shadcn/ui · TypeScript |
-
-</div>
-
-<br/>
 
 <!-- ████████████████████████████████████████████ OPEN SOURCE & ACHIEVEMENTS -->
 <img width="100%" src="assets/divider.svg" alt="" />
