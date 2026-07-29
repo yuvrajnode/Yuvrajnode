@@ -147,26 +147,17 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <!-- ████████████████████████████████████████████ OPEN SOURCE & ACHIEVEMENTS -->
 <img width="100%" src="assets/divider.svg" alt="" />
 
-<h2 align="center">🌐 Open Source & Achievements</h2>
+<h2 align="center">Open Source</h2>
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/p5.js-GSoC%20Contributor-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace/Transformer-Contributer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/n8n-Contributor-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Meta-Version%20Control%20Certified-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
 <div align="center">
-
-| 🏅 | Highlight |
-|:---:|:---|
-| 🔀 | Merged PRs into **p5.js / Processing** & **n8n** across 2 open-source orgs as a **GSoC contributor** |
-| 🤖 | Shipped **4 production-grade AI projects** (agents, RAG, fine-tuning, evals) in a 20+ module AI/ML program |
-| 🧱 | Built **10+ full-stack apps** in the **100xDevs Full-Stack, DevOps & Blockchain Cohort** |
-| 🇮🇳 | Proposed a citizen grievance platform at **Smart India Hackathon 2025** (national level) |
-
 </div>
 
 <br/>
@@ -174,40 +165,23 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <!-- ████████████████████████████████████████████ STATS -->
 <img width="100%" src="assets/divider.svg" alt="" />
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yuvrajnode&theme=tokyonight&hide_border=true&border_radius=10&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajnode&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA" height="170" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajnode&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&title_color=A78BFA" height="170" />
-</p>
-
-<!-- If any stats card ever shows a broken "?" image: the shared github-readme-stats.vercel.app
-     instance is rate-limited at peak times. Permanent fix (5 min): deploy your own free instance —
-     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own — then swap the domain
-     in these URLs. -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajnode&theme=tokyo-night&hide_border=true&border_radius=10&area=true&area_color=7c3aed&color=A78BFA&line=7c3aed&point=A78BFA" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajnode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
 <br/>
 
 <!-- ████████████████████████████████████████████ SNAKE -->
 <img width="100%" src="assets/divider.svg" alt="" />
 
-<h2 align="center">🏙️ 3D Contribution City</h2>
-
-<p align="center"><sub>my year of commits, rendered as an isometric 3D city — regenerated daily by GitHub Actions</sub></p>
+<h2 align="center">Contribution City</h2>
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
@@ -216,21 +190,5 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <br/>
 
 <img width="100%" src="assets/divider.svg" alt="" />
-
-<h2 align="center">🐍 Contribution Graph</h2>
-<br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajnode/yuvrajnode/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajnode/yuvrajnode/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/yuvrajnode/yuvrajnode/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
-<br/>
-
-<!-- ████████████████████████████████████████████ FOOTER -->
-<p align="center"><i>"Give AI a voice, give the web real-time speed — and make it all run at scale."</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=140&section=footer&text=Let's%20build%20something%20great&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=twinkling" />
