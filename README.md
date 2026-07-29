@@ -1,7 +1,7 @@
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--                        HERO BANNER                           -->
 <!-- ████████████████████████████████████████████████████████████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=YUVRAJ%20SINGH&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Development%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=19&descColor=e2d9ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=YUVRAJ%20SINGH&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Development%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%2FML&descAlignY=54&descSize=19&descColor=e2d9ff" />
 
 <!-- TYPING INTRO -->
 <p align="center">
