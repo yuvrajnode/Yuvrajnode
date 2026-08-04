@@ -153,9 +153,8 @@ Right now I'm building a **production Voice AI platform**: real-time two-way voi
 <p align="center">
   <img src="https://img.shields.io/badge/HuggingFace/Transformer-Contributor-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/n8n-Contributor-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Safedep/Vet-Contributor-4B9BFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCB4PSI1MCIgeT0iNTUiIGZvbnQtc2l6ZT0iNjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmYiPlY8L3RleHQ+PC9zdmc+" logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Contributor-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/p5.js/Processing-Contributor-FF6B6B?style=for-the-badge&logo=processingfoundation&logoColor=white" />
 </p>
