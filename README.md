@@ -39,21 +39,15 @@
 
 <table align="center" width="100%">
 <tr>
-<th align="left" width="26%">Project</th>
-<th align="center" width="12%">Stars</th>
-<th align="left" width="62%">Pull requests</th>
+<th align="left" width="32%">Project</th>
+<th align="left" width="68%">Pull requests</th>
 </tr>
 
 <tr>
 <td valign="top">
 
-**[huggingface/&#8203;transformers](https://github.com/huggingface/transformers)**
+<img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" width="20" align="top" alt="" />&nbsp; **[huggingface/&#8203;transformers](https://github.com/huggingface/transformers)**
 <br/><sub>Python · the model library</sub>
-
-</td>
-<td align="center" valign="top">
-
-<img src="https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&labelColor=0d1117&color=FFD21E" alt="stars" />
 
 </td>
 <td valign="top">
@@ -68,13 +62,8 @@
 <tr>
 <td valign="top">
 
-**[safedep/vet](https://github.com/safedep/vet)**
+<img src="https://avatars.githubusercontent.com/u/115209633?s=48&v=4" width="20" align="top" alt="" />&nbsp; **[safedep/vet](https://github.com/safedep/vet)**
 <br/><sub>Go · supply-chain scanner</sub>
-
-</td>
-<td align="center" valign="top">
-
-<img src="https://img.shields.io/github/stars/safedep/vet?style=flat-square&labelColor=0d1117&color=4B9BFF" alt="stars" />
 
 </td>
 <td valign="top">
@@ -89,13 +78,8 @@
 <tr>
 <td valign="top">
 
-**[fishaudio/&#8203;fish-speech](https://github.com/fishaudio/fish-speech)**
+<img src="https://avatars.githubusercontent.com/u/122017386?s=48&v=4" width="20" align="top" alt="" />&nbsp; **[fishaudio/&#8203;fish-speech](https://github.com/fishaudio/fish-speech)**
 <br/><sub>Python · TTS and voice cloning</sub>
-
-</td>
-<td align="center" valign="top">
-
-<img src="https://img.shields.io/github/stars/fishaudio/fish-speech?style=flat-square&labelColor=0d1117&color=22d3ee" alt="stars" />
 
 </td>
 <td valign="top">
@@ -112,13 +96,8 @@
 <tr>
 <td valign="top">
 
-**[calcom/cal.diy](https://github.com/calcom/cal.diy)**
+<img src="https://avatars.githubusercontent.com/u/79145102?s=48&v=4" width="20" align="top" alt="" />&nbsp; **[calcom/cal.diy](https://github.com/calcom/cal.diy)**
 <br/><sub>TypeScript · scheduling</sub>
-
-</td>
-<td align="center" valign="top">
-
-<img src="https://img.shields.io/github/stars/calcom/cal.diy?style=flat-square&labelColor=0d1117&color=f472b6" alt="stars" />
 
 </td>
 <td valign="top">
@@ -131,18 +110,13 @@
 <tr>
 <td valign="top">
 
-**[n8n-io/n8n](https://github.com/n8n-io/n8n)**
+<img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" width="20" align="top" alt="" />&nbsp; **[n8n-io/n8n](https://github.com/n8n-io/n8n)**
 <br/><sub>TypeScript · workflow automation</sub>
-
-</td>
-<td align="center" valign="top">
-
-<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&labelColor=0d1117&color=EA4B71" alt="stars" />
 
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp; [**#20393**](https://github.com/n8n-io/n8n/pull/20393) Timezone-aware date formatting across the frontend
+<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp;&nbsp; [**#20393**](https://github.com/n8n-io/n8n/pull/20393) Timezone-aware date formatting across the frontend
 
 </td>
 </tr>
@@ -150,21 +124,17 @@
 <tr>
 <td valign="top">
 
-**[processing/p5.js](https://github.com/processing/p5.js)**
+<img src="https://avatars.githubusercontent.com/u/1617169?s=48&v=4" width="20" align="top" alt="" />&nbsp; **[processing/p5.js](https://github.com/processing/p5.js)**
 <br/><sub>JavaScript · creative coding</sub>
-
-</td>
-<td align="center" valign="top">
-
-<img src="https://img.shields.io/github/stars/processing/p5.js?style=flat-square&labelColor=0d1117&color=FF6B6B" alt="stars" />
 
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp; [**#9027**](https://github.com/processing/p5.js/pull/9027) Clarify `p5.Vector` is always 3-component
+<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp;&nbsp; [**#9027**](https://github.com/processing/p5.js/pull/9027) Clarify `p5.Vector` is always 3-component
 
 </td>
 </tr>
+
 </table>
 
 <p align="center">
@@ -234,9 +204,12 @@
 </td>
 <td align="center">
 
-**Chain and tools**
+**Web3 and tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=solana,ethereum,git,postman,neovim,vscode&theme=dark&perline=6" alt="Solana, Ethereum, Git, Postman, Neovim, VS Code" />
+<img src="https://skillicons.dev/icons?i=git,postman,neovim,vscode&theme=dark&perline=4" alt="Git, Postman, Neovim, VS Code" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black" alt="Solana" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
 
 </td>
 </tr>
@@ -249,10 +222,6 @@
 
 <h2 align="center">Activity</h2>
 <br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yuvrajnode&theme=tokyonight&hide_border=true&border_radius=10&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165" alt="Commit streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajnode&theme=tokyo-night&hide_border=true&border_radius=10&area=true&area_color=7c3aed&color=A78BFA&line=7c3aed&point=A78BFA" width="100%" alt="Contribution activity over the past year" />
