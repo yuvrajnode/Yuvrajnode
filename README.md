@@ -39,10 +39,9 @@
 
 <table align="center" width="100%">
 <tr>
-<th align="left" width="24%">Project</th>
+<th align="left" width="26%">Project</th>
 <th align="center" width="12%">Stars</th>
-<th align="left" width="48%">What I changed</th>
-<th align="center" width="16%">State</th>
+<th align="left" width="62%">Pull requests</th>
 </tr>
 
 <tr>
@@ -59,18 +58,9 @@
 </td>
 <td valign="top">
 
-[**#47509**](https://github.com/huggingface/transformers/pull/47509)
-Phi-4 Multimodal fell back to the wrong value when initialising vision position embeddings, so image embeddings were sized off the wrong dimension.
-
-[**#47558**](https://github.com/huggingface/transformers/pull/47558)
-`Pix2StructTextAttention` built its projection from `hidden_size` when it should use `d_kv`.
-
-</td>
-<td align="center" valign="top">
-
-`merged`
-
-`open`
+<img src="https://img.shields.io/badge/merged-8957e5?style=flat-square" alt="merged" />&nbsp; [**#47509**](https://github.com/huggingface/transformers/pull/47509) Phi-4 Multimodal vision embedding init
+<br/>
+<img src="https://img.shields.io/badge/open-3fb950?style=flat-square" alt="open" />&nbsp;&nbsp;&nbsp; [**#47558**](https://github.com/huggingface/transformers/pull/47558) Pix2Struct attention sized from `d_kv`
 
 </td>
 </tr>
@@ -89,18 +79,9 @@ Phi-4 Multimodal fell back to the wrong value when initialising vision position 
 </td>
 <td valign="top">
 
-[**#757**](https://github.com/safedep/vet/pull/757)
-Errors during a GitHub org scan were swallowed, so a failed scan looked like a clean one. They propagate now.
-
-[**#760**](https://github.com/safedep/vet/pull/760)
-The trusted npm registry check compared whole URLs, which a lookalike host could slip past. It compares hostnames instead.
-
-</td>
-<td align="center" valign="top">
-
-`merged`
-
-`merged`
+<img src="https://img.shields.io/badge/merged-8957e5?style=flat-square" alt="merged" />&nbsp; [**#757**](https://github.com/safedep/vet/pull/757) Propagate GitHub org scan errors
+<br/>
+<img src="https://img.shields.io/badge/merged-8957e5?style=flat-square" alt="merged" />&nbsp; [**#760**](https://github.com/safedep/vet/pull/760) Match npm registry by hostname, not full URL
 
 </td>
 </tr>
@@ -119,22 +100,11 @@ The trusted npm registry check compared whole URLs, which a lookalike host could
 </td>
 <td valign="top">
 
-Three fixes found while wiring it into our voice pipeline:
-
-[**#1317**](https://github.com/fishaudio/fish-speech/pull/1317) `list_files()` accepted a `recursive` argument and then ignored it.
-
-[**#1318**](https://github.com/fishaudio/fish-speech/pull/1318) `ReferenceLoader.load_audio()` branched on tuple length rather than type.
-
-[**#1319**](https://github.com/fishaudio/fish-speech/pull/1319) Bad reference arguments failed quietly instead of up front.
-
-</td>
-<td align="center" valign="top">
-
-`open`
-
-`open`
-
-`open`
+<img src="https://img.shields.io/badge/open-3fb950?style=flat-square" alt="open" />&nbsp;&nbsp;&nbsp; [**#1317**](https://github.com/fishaudio/fish-speech/pull/1317) Honour the `recursive` flag in `list_files()`
+<br/>
+<img src="https://img.shields.io/badge/open-3fb950?style=flat-square" alt="open" />&nbsp;&nbsp;&nbsp; [**#1318**](https://github.com/fishaudio/fish-speech/pull/1318) Dispatch on type, not tuple length
+<br/>
+<img src="https://img.shields.io/badge/open-3fb950?style=flat-square" alt="open" />&nbsp;&nbsp;&nbsp; [**#1319**](https://github.com/fishaudio/fish-speech/pull/1319) Validate reference args up front
 
 </td>
 </tr>
@@ -153,13 +123,7 @@ Three fixes found while wiring it into our voice pipeline:
 </td>
 <td valign="top">
 
-[**#29954**](https://github.com/calcom/cal.diy/pull/29954)
-Duration badges on event types sorted as strings, so 120 min came before 15 min.
-
-</td>
-<td align="center" valign="top">
-
-`open`
+<img src="https://img.shields.io/badge/open-3fb950?style=flat-square" alt="open" />&nbsp;&nbsp;&nbsp; [**#29954**](https://github.com/calcom/cal.diy/pull/29954) Sort duration badges numerically
 
 </td>
 </tr>
@@ -178,13 +142,7 @@ Duration badges on event types sorted as strings, so 120 min came before 15 min.
 </td>
 <td valign="top">
 
-[**#20393**](https://github.com/n8n-io/n8n/pull/20393)
-A timezone-aware `formatDateForUI` across the frontend, 269 lines over 6 files. Good discussion, but they went another way.
-
-</td>
-<td align="center" valign="top">
-
-`closed`
+<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp; [**#20393**](https://github.com/n8n-io/n8n/pull/20393) Timezone-aware date formatting across the frontend
 
 </td>
 </tr>
@@ -203,13 +161,7 @@ A timezone-aware `formatDateForUI` across the frontend, 269 lines over 6 files. 
 </td>
 <td valign="top">
 
-[**#9027**](https://github.com/processing/p5.js/pull/9027)
-`p5.Vector` is always three components, which catches people out in 2D sketches where `z` is quietly 0. Documented it.
-
-</td>
-<td align="center" valign="top">
-
-`closed`
+<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp; [**#9027**](https://github.com/processing/p5.js/pull/9027) Clarify `p5.Vector` is always 3-component
 
 </td>
 </tr>
@@ -222,37 +174,6 @@ A timezone-aware `formatDateForUI` across the frontend, 269 lines over 6 files. 
     <a href="https://github.com/search?q=is%3Apr+author%3Ayuvrajnode+is%3Amerged&type=pullrequests">Merged only</a>
   </sub>
 </p>
-
-<br/>
-
-<!-- ─────────────────────────────  ABOUT  ───────────────────────────── -->
-<img width="100%" src="assets/divider.svg" alt="" />
-
-<table border="0" cellpadding="18" width="100%">
-<tr>
-<td width="56%" valign="top">
-
-### About
-
-I'm a software engineer at Innovativus. Day to day I'm building a voice AI platform: two people, one of them a model, talking over a real phone line with no awkward pause in between.
-
-That means zero-shot voice cloning with F5-TTS and Supertonic, a Twilio assistant that runs speech to text, then an LLM, then text to speech fast enough to feel like a conversation, and a RAG layer so it answers from your documents instead of guessing.
-
-Before this I spent most of my time on full-stack work, and I still do — Next.js and Postgres on one side, Kubernetes and Grafana on the other. Some Solana on weekends.
-
-If you want to talk about TTS latency, retrieval quality, or why your fine-tune got worse, I'm at
-[yuvrajsingh9027249999@gmail.com](mailto:yuvrajsingh9027249999@gmail.com).
-
-</td>
-<td width="44%" valign="middle" align="center">
-
-<img src="assets/ai-core.svg" width="86%" alt="Animated illustration of a glowing neural core with an audio waveform"/>
-
-<p><sub>Roughly what it feels like in there</sub></p>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -338,21 +259,9 @@ If you want to talk about TTS latency, retrieval quality, or why your fine-tune 
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajnode/Yuvrajnode/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajnode/Yuvrajnode/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/yuvrajnode/Yuvrajnode/output/github-contribution-grid-snake.svg" width="100%" alt="Snake eating the contribution graph" />
-  </picture>
-</p>
-
-<p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="The same contributions as an isometric 3D city" />
 </p>
 
 <br/>
 
 <img width="100%" src="assets/divider.svg" alt="" />
-
-<p align="center">
-  <sub>Rebuilt every night by a workflow that has never once asked for credit.</sub>
-</p>
