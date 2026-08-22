@@ -84,11 +84,11 @@
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/open-3fb950?style=flat-square" alt="open" />&nbsp;&nbsp;&nbsp; [**#1317**](https://github.com/fishaudio/fish-speech/pull/1317) Honour the `recursive` flag in `list_files()`
+<img src="https://img.shields.io/badge/merged-3fb950?style=flat-square" alt="merged" />&nbsp;&nbsp;&nbsp; [**#1317**](https://github.com/fishaudio/fish-speech/pull/1317) Honour the `recursive` flag in `list_files()`
 <br/>
-<img src="https://img.shields.io/badge/open-3fb950?style=flat-square" alt="open" />&nbsp;&nbsp;&nbsp; [**#1318**](https://github.com/fishaudio/fish-speech/pull/1318) Dispatch on type, not tuple length
+<img src="https://img.shields.io/badge/merged-3fb950?style=flat-square" alt="merged" />&nbsp;&nbsp;&nbsp; [**#1318**](https://github.com/fishaudio/fish-speech/pull/1318) Dispatch on type, not tuple length
 <br/>
-<img src="https://img.shields.io/badge/open-3fb950?style=flat-square" alt="open" />&nbsp;&nbsp;&nbsp; [**#1319**](https://github.com/fishaudio/fish-speech/pull/1319) Validate reference args up front
+<img src="https://img.shields.io/badge/merged-3fb950?style=flat-square" alt="merged" />&nbsp;&nbsp;&nbsp; [**#1319**](https://github.com/fishaudio/fish-speech/pull/1319) Validate reference args up front
 
 </td>
 </tr>
