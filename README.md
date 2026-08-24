@@ -31,7 +31,7 @@
 <h2 align="center">Open Source</h2>
 
 <p align="center">
-  Six projects, about 470k stars between them. Three of my patches are in main.<br/>
+  Six projects, about 470k stars between them. Six of my patches are in main.<br/>
   Mostly small correctness fixes in code I hit while building something else.
 </p>
 
