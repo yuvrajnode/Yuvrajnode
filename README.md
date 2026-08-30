@@ -136,7 +136,7 @@
 <img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp;&nbsp; [**#2383**](https://github.com/freebsd/freebsd-src/pull/2383) libusb: Fix NULL dereference when a hotplug callback deregisters itself
 
 </td>
-</tr>a
+</tr>
 
 <tr>
 <td valign="top">
