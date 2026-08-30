@@ -31,7 +31,8 @@
 <h2 align="center">Open Source</h2>
 
 <p align="center">
-  Six projects, about 470k stars between them. Six of my patches are in main.<br/>
+  Six projects, about 470k stars between them. Six of my patches are in main.
+  <br/>
   Mostly small correctness fixes in code I hit while building something else.
 </p>
 
@@ -120,6 +121,22 @@
 
 </td>
 </tr>
+
+<tr>
+<td valign="top">
+
+<img src="https://github.com/freebsd.png?size=48" width="20" align="top" alt="" />&nbsp; **[freebsd/&#8203;freebsd-src](https://github.com/freebsd/freebsd-src)**
+<br/><sub>C · FreeBSD source tree</sub>
+
+</td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp;&nbsp; [**#2384**](https://github.com/freebsd/freebsd-src/pull/2384) libusb: Validate arguments before dereferencing the hotplug context
+<br/>
+<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp;&nbsp; [**#2383**](https://github.com/freebsd/freebsd-src/pull/2383) libusb: Fix NULL dereference when a hotplug callback deregisters itself
+
+</td>
+</tr>a
 
 <tr>
 <td valign="top">
@@ -222,10 +239,6 @@
 
 <h2 align="center">Activity</h2>
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajnode&theme=tokyo-night&hide_border=true&border_radius=10&area=true&area_color=7c3aed&color=A78BFA&line=7c3aed&point=A78BFA" width="100%" alt="Contribution activity over the past year" />
-</p>
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="The same contributions as an isometric 3D city" />
