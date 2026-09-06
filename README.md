@@ -72,6 +72,8 @@
 <img src="https://img.shields.io/badge/merged-8957e5?style=flat-square" alt="merged" />&nbsp; [**#757**](https://github.com/safedep/vet/pull/757) Propagate GitHub org scan errors
 <br/>
 <img src="https://img.shields.io/badge/merged-8957e5?style=flat-square" alt="merged" />&nbsp; [**#760**](https://github.com/safedep/vet/pull/760) Match npm registry by hostname, not full URL
+<br/>
+<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp; [**#761**](https://github.com/safedep/vet/pull/761) Surface malicious package lookups that never completed
 
 </td>
 </tr>
