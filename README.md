@@ -52,7 +52,7 @@
 
 </td>
 <td valign="top">
-
+  
 <img src="https://img.shields.io/badge/merged-8957e5?style=flat-square" alt="merged" />&nbsp; [**#47509**](https://github.com/huggingface/transformers/pull/47509) Phi-4 Multimodal vision embedding init
 <br/>
 <img src="https://img.shields.io/badge/merged-8957e5?style=flat-square" alt="merged" />&nbsp;&nbsp;&nbsp; [**#47558**](https://github.com/huggingface/transformers/pull/47558) Pix2Struct attention sized from `d_kv`
