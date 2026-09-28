@@ -18,10 +18,107 @@
   &nbsp;
   <a href="https://github.com/yuvrajnode"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
   &nbsp;
+  <a href="https://github.com/yuvrajnode/resume"><img src="https://img.shields.io/badge/Resume-7c3aed?style=flat-square&logo=readdotcv&logoColor=white&labelColor=0d1117" alt="Resume" /></a>
+  &nbsp;
   <a href="https://www.instagram.com/yuvrajyx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=yuvrajnode&label=views&color=7c3aed&style=flat-square" alt="Profile views" />
 </p>
+
+<br/>
+
+<!-- ─────────────────────────────  NOW  ───────────────────────────── -->
+<img width="100%" src="assets/divider.svg" alt="" />
+
+<h2 align="center">Now</h2>
+
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**Software Development Engineer** · Innovativus Technologies
+<br/><sub>Jul 2026 – present · Delhi</sub>
+
+- Production **voice AI platform**: real-time, two-way conversations with AI assistants grounded in a **RAG** knowledge base
+- **Zero-shot voice cloning** with F5-TTS and Supertonic TTS
+- **Twilio phone assistant** on a low-latency STT → LLM → TTS pipeline, **55% faster** call handling
+
+</td>
+<td valign="top" width="50%">
+
+**Software Engineering Intern** · Innovativus Technologies
+<br/><sub>Apr – Jun 2026 · promoted to SDE after 3 months</sub>
+
+- SEO-tuned **Next.js** site with SSR, 95+ Lighthouse, **+35% organic traffic**
+- Python scraper over 7+ vendor sources with LLM summaries, **40% less manual reporting**
+- Docker + GitHub Actions CI/CD, **release cycles 50% shorter**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────────────  PROJECTS  ───────────────────────────── -->
+<img width="100%" src="assets/divider.svg" alt="" />
+
+<h2 align="center">Featured projects</h2>
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="33%">
+
+**[Autonomous AI Coding Agent](https://github.com/yuvrajnode/Autonomous-AI-Coding-Agent)**
+<br/><sub>Python · LangGraph · RAG · pgvector</sub>
+
+Plan–act–observe agent with tool use, long-term memory, observability and evals. 80%+ completion on multi-step coding tasks.
+
+</td>
+<td valign="top" width="33%">
+
+**[LLM Fine-Tuning & Eval Pipeline](https://github.com/yuvrajnode/LLM-Fine-Tuning-Evaluation-Pipeline)**
+<br/><sub>PyTorch · Hugging Face · LoRA/PEFT · RLHF</sub>
+
+Fine-tunes an open LLM on 10k+ examples (+25% task accuracy) and benchmarks 15+ checkpoints automatically.
+
+</td>
+<td valign="top" width="33%">
+
+**[Real-Time Crypto Exchange](https://github.com/yuvrajnode/exchange)**
+<br/><sub>Next.js · TypeScript · WebSockets · Redis</sub>
+
+Live order book and candlesticks for 100+ pairs, streamed to 1,000+ concurrent clients. [Live demo](https://exchange-ruby-iota.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[Doodle Space](https://github.com/yuvrajnode/doodle-space)**
+<br/><sub>Next.js · Turborepo · WebSockets</sub>
+
+Collaborative whiteboard with an infinite canvas and multi-user sync.
+
+</td>
+<td valign="top">
+
+**[Connect Four](https://github.com/yuvrajnode/Connect-Four-Game)**
+<br/><sub>React · Node.js · Socket.IO · PostgreSQL</sub>
+
+Real-time multiplayer with a bot, reconnection and a leaderboard. [Play](https://connect-four-game-sable.vercel.app)
+
+</td>
+<td valign="top">
+
+**[Web-Based Wallet](https://github.com/yuvrajnode/web-based-wallet)**
+<br/><sub>React · Solana · Ethereum · BIP39/44</sub>
+
+HD wallet for Solana and Ethereum in the browser. [Live demo](https://web-based-wallet-two-sable.vercel.app)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -31,7 +128,7 @@
 <h2 align="center">Open Source</h2>
 
 <p align="center">
-  Six projects, about 470k stars between them. Six of my patches are in main.
+  Seven projects, about 490k stars between them. Seven of my patches are merged upstream.
   <br/>
   Mostly small correctness fixes in code I hit while building something else.
 </p>
@@ -105,7 +202,7 @@
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/open-3fb950?style=flat-square" alt="open" />&nbsp;&nbsp;&nbsp; [**#29954**](https://github.com/calcom/cal.diy/pull/29954) Sort duration badges numerically
+<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp;&nbsp; [**#29954**](https://github.com/calcom/cal.diy/pull/29954) Sort duration badges numerically
 
 </td>
 </tr>
