@@ -1,33 +1,142 @@
-<!-- ─────────────────────────────  HEADER  ───────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=Yuvraj%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Development%20Engineer&descAlignY=56&descSize=18&descColor=e2d9ff" alt="Yuvraj Singh, Software Development Engineer" />
+<img src="assets/profile-header.svg" width="100%" alt="Yuvraj Singh — Software Engineer | Full-stack, AI and real-time systems" />
 
 <p align="center">
-  <a href="https://github.com/yuvrajnode">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=760&height=42&lines=I+fix+bugs+in+libraries+I+use+every+day;transformers+%C2%B7+vet+%C2%B7+fish-speech+%C2%B7+cal.diy;Building+a+voice+AI+platform+at+work;Voice+cloning%2C+RAG%2C+and+a+phone+assistant+that+answers" alt="Typing SVG" />
-  </a>
+  <strong>Software Engineer · Full-stack &amp; AI/ML</strong><br/>
+  SDE at Innovativus · B.Tech CSE, VIT · Uttarakhand, India
 </p>
 
 <p align="center">
-  SDE at Innovativus &nbsp;·&nbsp; B.Tech CSE, VIT &nbsp;·&nbsp; Uttarakhand, India
+  <a href="https://www.linkedin.com/in/yuvrajnode">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:yuvrajsingh9027249999@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://github.com/yuvrajnode/resume">Recruiter overview</a> &nbsp; / &nbsp;
+  <a href="#selected-projects">Selected projects</a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yuvrajnode"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:yuvrajsingh9027249999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-  &nbsp;
-  <a href="https://github.com/yuvrajnode"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://github.com/yuvrajnode/resume"><img src="https://img.shields.io/badge/Resume-7c3aed?style=flat-square&logo=readdotcv&logoColor=white&labelColor=0d1117" alt="Resume" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/yuvrajyx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=yuvrajnode&label=views&color=7c3aed&style=flat-square" alt="Profile views" />
-</p>
+I build LLM agents, retrieval systems and real-time web applications. My work spans Python and TypeScript backends, React interfaces, model evaluation, and Solana/Ethereum integrations. At work, my focus includes voice AI, speech synthesis and conversational assistants.
 
-<br/>
+## Selected projects
 
+A starting point for reviewing my engineering work: what each project does, the decisions behind it, and the code to explore.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ACA · Autonomous Coding Agent](https://github.com/yuvrajnode/Autonomous-AI-Coding-Agent)
+
+A plan–act–observe agent with tool execution, persistent memory, retrieval and a streaming run dashboard.
+
+**Engineering:** tool boundaries, execution traces and an evaluation harness.
+
+`Python` `LangGraph` `FastAPI` `PostgreSQL / pgvector`
+
+[Architecture](https://github.com/yuvrajnode/Autonomous-AI-Coding-Agent/blob/main/docs/architecture.md) · [Evaluation design](https://github.com/yuvrajnode/Autonomous-AI-Coding-Agent/blob/main/docs/evals.md)
+
+</td>
+<td width="50%" valign="top">
+
+### [LLM Fine-Tuning & Evaluation](https://github.com/yuvrajnode/LLM-Fine-Tuning-Evaluation-Pipeline)
+
+LoRA supervised fine-tuning, DPO/IPO preference optimization and a repeatable checkpoint-comparison workflow.
+
+**Engineering:** consistent evaluation prompts, checkpoint discovery, cached results and a report dashboard.
+
+`PyTorch` `Transformers` `PEFT` `TRL`
+
+[Pipeline & setup](https://github.com/yuvrajnode/LLM-Fine-Tuning-Evaluation-Pipeline#readme) · [Dashboard design](https://github.com/yuvrajnode/LLM-Fine-Tuning-Evaluation-Pipeline/blob/main/docs/dashboard.md)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [Nexus · Market-Data Terminal](https://github.com/yuvrajnode/exchange)
+
+Live order books, candlestick charts and trade streams in a responsive trading interface. Order entry is simulated.
+
+**Engineering:** multiplexed WebSocket subscriptions, REST snapshots and incremental depth updates.
+
+`Next.js` `React` `TypeScript` `WebSockets`
+
+[Live demo](https://exchange-ruby-iota.vercel.app) · [Code & screenshots](https://github.com/yuvrajnode/exchange#readme)
+
+</td>
+<td valign="top">
+
+### [Doodle Space · Collaborative Canvas](https://github.com/yuvrajnode/doodle-space)
+
+A room-based whiteboard with drawing tools, an infinite canvas and multi-user synchronization.
+
+**Engineering:** canvas interaction, shared room state and a monorepo spanning client, HTTP and WebSocket services.
+
+`Next.js` `Turborepo` `WebSockets` `Prisma`
+
+[Code & walkthrough](https://github.com/yuvrajnode/doodle-space#readme)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [Connect Four · Multiplayer Game](https://github.com/yuvrajnode/Connect-Four-Game)
+
+Real-time matches with automatic matchmaking, bot fallback and reconnect handling.
+
+**Engineering:** server-managed turns, game-state transitions and an in-memory leaderboard.
+
+`React` `Node.js` `WebSockets`
+
+[Frontend demo](https://connect-four-game-sable.vercel.app) · [Code & setup](https://github.com/yuvrajnode/Connect-Four-Game#readme)
+
+</td>
+<td valign="top">
+
+### [Multi-Chain Browser Wallet](https://github.com/yuvrajnode/web-based-wallet)
+
+A browser wallet demo that derives Ethereum and Solana accounts from a BIP39 seed phrase.
+
+**Engineering:** HD address derivation and integrations with two blockchain ecosystems.
+
+`React` `ethers.js` `Solana Web3.js` `BIP39 / BIP44`
+
+[Live demo](https://web-based-wallet-two-sable.vercel.app) · [Code & setup](https://github.com/yuvrajnode/web-based-wallet#readme)
+
+</td>
+</tr>
+</table>
+
+## Skills in practice
+
+| Area | Tools and experience | Public example |
+| --- | --- | --- |
+| AI engineering | Python, LangGraph, tool use, RAG, pgvector, tracing and evaluations | [ACA](https://github.com/yuvrajnode/Autonomous-AI-Coding-Agent) |
+| Model training | PyTorch, Hugging Face Transformers, LoRA/PEFT, DPO/IPO, checkpoint evaluation | [Fine-tuning pipeline](https://github.com/yuvrajnode/LLM-Fine-Tuning-Evaluation-Pipeline) |
+| Frontend & real-time systems | TypeScript, React, Next.js, Tailwind CSS, WebSockets, Canvas API | [Nexus](https://github.com/yuvrajnode/exchange) · [Doodle Space](https://github.com/yuvrajnode/doodle-space) |
+| Backend & data | Node.js, Express, FastAPI, PostgreSQL, Prisma, MongoDB, JWT, Zod | [CourseHub](https://github.com/yuvrajnode/CourseHub) · [Course API](https://github.com/yuvrajnode/course-selling-backend) |
+| Web3 | Solana, Ethereum, wallet adapters, Token-2022, wagmi, viem, Jupiter | [Token Launchpad](https://github.com/yuvrajnode/Solana-Launchpad) · [Ethereum Wallet Connect](https://github.com/yuvrajnode/Ethereum-wallet-adapter-) |
+| Delivery & quality | Docker, GitHub Actions, pytest, linting and typed configuration | [ACA](https://github.com/yuvrajnode/Autonomous-AI-Coding-Agent) · [Fine-tuning pipeline](https://github.com/yuvrajnode/LLM-Fine-Tuning-Evaluation-Pipeline) |
+
+Additional work includes voice AI and speech pipelines, agent-memory systems, document Q&A, and native applications with SwiftUI and Kotlin/Jetpack Compose.
+
+<details>
+<summary><strong>More projects · applications, Web3 and backend foundations</strong></summary>
+
+| Project | Focus |
+| --- | --- |
+| [Contest Tracker](https://github.com/yuvrajnode/Contest-tracker) | Contest APIs, countdowns, filters, bookmarks and solution links |
+| [CourseHub](https://github.com/yuvrajnode/CourseHub) | Full-stack course catalog, user/admin authentication and purchase records |
+| [Face Match](https://github.com/yuvrajnode/face-match-auth) | Camera capture and browser-based face comparison |
+| [Solana Token Launchpad](https://github.com/yuvrajnode/Solana-Launchpad) | Token-2022 mint creation, metadata and initial supply on devnet |
+| [Solana DApp](https://github.com/yuvrajnode/Solana-Dapp) | Wallet connections, balance checks, transfers and devnet airdrops |
+| [Ethereum Wallet Connect](https://github.com/yuvrajnode/Ethereum-wallet-adapter-) | wagmi/viem wallet connections and account state |
+| [Solana Swap](https://github.com/yuvrajnode/swap-contract) | Jupiter quotes, transaction signing and submission |
+| [Course Marketplace API](https://github.com/yuvrajnode/course-selling-backend) | Express, MongoDB, JWT authentication and validation |
+| [Todo API](https://github.com/yuvrajnode/todo-backend-with-database) | User-scoped CRUD, password hashing and input validation |
+| [JWT Auth App](https://github.com/yuvrajnode/jwt-auth-app) | Authentication fundamentals with Express and a browser client |
+| [CLI Todo](https://github.com/yuvrajnode/cli-todo-app) | Command-line interfaces with Commander and Chalk |
+| [Express Calculator](https://github.com/yuvrajnode/express-calculator-api-basics) | HTTP routing and JSON API fundamentals |
+
+</details>
 
 <!-- ─────────────────────────────  OPEN SOURCE  ───────────────────────────── -->
 <img width="100%" src="assets/divider.svg" alt="" />
@@ -171,151 +280,10 @@
 <br/>
 
 
-<!-- ─────────────────────────────  PROJECTS  ───────────────────────────── -->
-<img width="100%" src="assets/divider.svg" alt="" />
+## Activity
 
-<h2 align="center">Featured projects</h2>
-<br/>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="GitHub contributions visualized as an isometric city" />
 
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="33%">
+---
 
-**[Autonomous AI Coding Agent](https://github.com/yuvrajnode/Autonomous-AI-Coding-Agent)**
-<br/><sub>Python · LangGraph · RAG · pgvector</sub>
-
-Plan–act–observe agent with tool use, long-term memory, observability and evals. 80%+ completion on multi-step coding tasks.
-
-</td>
-<td valign="top" width="33%">
-
-**[LLM Fine-Tuning & Eval Pipeline](https://github.com/yuvrajnode/LLM-Fine-Tuning-Evaluation-Pipeline)**
-<br/><sub>PyTorch · Hugging Face · LoRA/PEFT · RLHF</sub>
-
-Fine-tunes an open LLM on 10k+ examples (+25% task accuracy) and benchmarks 15+ checkpoints automatically.
-
-</td>
-<td valign="top" width="33%">
-
-**[Real-Time Crypto Exchange](https://github.com/yuvrajnode/exchange)**
-<br/><sub>Next.js · TypeScript · WebSockets · Redis</sub>
-
-Live order book and candlesticks for 100+ pairs, streamed to 1,000+ concurrent clients. [Live demo](https://exchange-ruby-iota.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**[Doodle Space](https://github.com/yuvrajnode/doodle-space)**
-<br/><sub>Next.js · Turborepo · WebSockets</sub>
-
-Collaborative whiteboard with an infinite canvas and multi-user sync.
-
-</td>
-<td valign="top">
-
-**[Connect Four](https://github.com/yuvrajnode/Connect-Four-Game)**
-<br/><sub>React · Node.js · Socket.IO · PostgreSQL</sub>
-
-Real-time multiplayer with a bot, reconnection and a leaderboard. [Play](https://connect-four-game-sable.vercel.app)
-
-</td>
-<td valign="top">
-
-**[Web-Based Wallet](https://github.com/yuvrajnode/web-based-wallet)**
-<br/><sub>React · Solana · Ethereum · BIP39/44</sub>
-
-HD wallet for Solana and Ethereum in the browser. [Live demo](https://web-based-wallet-two-sable.vercel.app)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-
-
-<!-- ─────────────────────────────  STACK  ───────────────────────────── -->
-<img width="100%" src="assets/divider.svg" alt="" />
-
-<h2 align="center">Stack</h2>
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,rust,solidity,bash&theme=dark&perline=7" alt="Python, TypeScript, JavaScript, Java, Rust, Solidity, Bash" />
-</p>
-
-<br/>
-
-<p align="center">
-  <b>AI, LLMs and voice</b>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain and LangGraph" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio Voice" />
-  <br/>
-  <img src="https://img.shields.io/badge/RAG-pgvector%20%7C%20Pinecone-7c3aed?style=flat-square&labelColor=0d1117" alt="RAG with pgvector and Pinecone" />
-  <img src="https://img.shields.io/badge/fine--tuning-LoRA%20%7C%20RLHF-A78BFA?style=flat-square&labelColor=0d1117" alt="Fine-tuning with LoRA and RLHF" />
-  <img src="https://img.shields.io/badge/agents-tool%20use%20%7C%20evals-6E56CF?style=flat-square&labelColor=0d1117" alt="Agents, tool use and evals" />
-  <img src="https://img.shields.io/badge/voice-F5--TTS%20%7C%20Supertonic%20%7C%20STT-f472b6?style=flat-square&labelColor=0d1117" alt="Voice: F5-TTS, Supertonic, speech to text" />
-</p>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark&perline=6" alt="React, Next.js, Tailwind, Figma" />
-
-</td>
-<td align="center" width="50%">
-
-**Backend and data**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,redis,postgres,mongodb,mysql,prisma&theme=dark&perline=7" alt="Node.js, Express, Redis, Postgres, MongoDB, MySQL, Prisma" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,grafana,prometheus&theme=dark&perline=7" alt="Docker, Kubernetes, AWS, GitHub Actions, Nginx, Grafana, Prometheus" />
-
-</td>
-<td align="center">
-
-**Web3 and tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,postman,neovim,vscode&theme=dark&perline=4" alt="Git, Postman, Neovim, VS Code" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black" alt="Solana" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ─────────────────────────────  ACTIVITY  ───────────────────────────── -->
-<img width="100%" src="assets/divider.svg" alt="" />
-
-<h2 align="center">Activity</h2>
-<br/>
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="The same contributions as an isometric 3D city" />
-</p>
-
-<br/>
-
-<img width="100%" src="assets/divider.svg" alt="" />
+**Let’s talk engineering:** [LinkedIn](https://www.linkedin.com/in/yuvrajnode) · [Email](mailto:yuvrajsingh9027249999@gmail.com)
