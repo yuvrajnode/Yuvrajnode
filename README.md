@@ -148,9 +148,9 @@ I build LLM agents, retrieval systems and real-time web applications. My work sp
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp;&nbsp;&nbsp; [**#2384**](https://github.com/freebsd/freebsd-src/pull/2384) libusb: Validate arguments before dereferencing the hotplug context
+<img src="https://img.shields.io/badge/merged-8957e5?style=flat-square" alt="merged" />&nbsp;&nbsp;&nbsp; [**#2384**](https://github.com/freebsd/freebsd-src/pull/2384) libusb: Validate arguments before dereferencing the hotplug context
 <br/>
-<img src="https://img.shields.io/badge/closed-6e7681?style=flat-square" alt="closed" />&nbsp;&nbsp;&nbsp; [**#2383**](https://github.com/freebsd/freebsd-src/pull/2383) libusb: Fix NULL dereference when a hotplug callback deregisters itself
+<img src="https://img.shields.io/badge/merged-8957e5?style=flat-square" alt="merged" />&nbsp;&nbsp;&nbsp; [**#2383**](https://github.com/freebsd/freebsd-src/pull/2383) libusb: Fix NULL dereference when a hotplug callback deregisters itself
 
 </td>
 </tr>
