@@ -1,12 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
 <title id="title">Yuvraj Singh — Software Engineer</title>
 <desc id="desc">Full-stack applications, AI agents and real-time systems.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#211744"/></linearGradient><linearGradient id="line"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#5eead4"/></linearGradient></defs>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#211744"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+<linearGradient id="sheen" x1="-1" x2="0" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+<animate attributeName="x1" values="-1;1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="x2" values="0;2" dur="4s" repeatCount="indefinite"/>
+</linearGradient>
+<radialGradient id="glow"><stop stop-color="#a78bfa" stop-opacity=".35"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+.rise{opacity:0;animation:rise .9s cubic-bezier(.2,.8,.2,1) forwards}
+.d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.ring{transform-origin:1130px 150px;animation:breathe 6s ease-in-out infinite}
+.ring:nth-child(2){animation-delay:1s}.ring:nth-child(3){animation-delay:2s}
+@keyframes breathe{0%,100%{opacity:.1;transform:scale(1)}50%{opacity:.22;transform:scale(1.03)}}
+.orbit{transform-origin:1130px 150px;animation:spin 24s linear infinite}
+.orbit.rev{animation-duration:36s;animation-direction:reverse}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.rise,.ring,.orbit{animation:none;opacity:1}}
+</style>
 <rect width="1280" height="300" rx="20" fill="url(#bg)"/>
-<g fill="none" stroke="#a78bfa" opacity=".12"><circle cx="1130" cy="150" r="115"/><circle cx="1130" cy="150" r="175"/><circle cx="1130" cy="150" r="235"/></g>
-<path d="M64 66h90" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+<circle cx="1130" cy="150" r="200" fill="url(#glow)"/>
+<g fill="none" stroke="#a78bfa"><circle class="ring" cx="1130" cy="150" r="115"/><circle class="ring" cx="1130" cy="150" r="175"/><circle class="ring" cx="1130" cy="150" r="235"/></g>
+<g fill="#5eead4" filter="url(#soft)">
+<g class="orbit"><circle cx="1015" cy="150" r="5"/><circle cx="1245" cy="150" r="3" fill="#f472b6"/></g>
+<g class="orbit rev"><circle cx="1130" cy="-25" r="5"/><circle cx="1210" cy="290" r="4" fill="#a78bfa"/></g>
+</g>
+<g class="rise d1">
+<rect x="61.5" y="63.5" width="95" height="5" rx="2.5" fill="url(#line)"/>
+<rect x="61.5" y="63.5" width="95" height="5" rx="2.5" fill="url(#sheen)" opacity=".6"/>
 <text x="64" y="135" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#f8fafc">Yuvraj Singh</text>
-<text x="67" y="185" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#c4b5fd">Software Engineer</text>
-<text x="67" y="237" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#cbd5e1">Full-stack applications · AI agents · Real-time systems</text>
-<g fill="#5eead4"><circle cx="1015" cy="150" r="5"/><circle cx="1130" cy="35" r="5"/><circle cx="1210" cy="232" r="5"/></g>
+</g>
+<text class="rise d2" x="67" y="185" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#c4b5fd">Software Engineer</text>
+<text class="rise d3" x="67" y="237" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#cbd5e1">Full-stack applications · AI agents · Real-time systems</text>
 </svg>

@@ -10,7 +10,7 @@
   <a href="mailto:yuvrajsingh9027249999@gmail.com">Email</a> &nbsp; / &nbsp;
   <a href="https://github.com/yuvrajnode/resume">Recruiter overview</a> &nbsp; / &nbsp;
   <a href="#open-source">Open source</a> &nbsp; / &nbsp;
-  <a href="#selected-projects">Selected projects</a>
+  <a href="#activity">Activity</a>
 </p>
 
 I build LLM agents, retrieval systems and real-time web applications. My work spans Python and TypeScript backends, React interfaces, model evaluation, and Solana/Ethereum integrations. At work, my focus includes voice AI, speech synthesis and conversational assistants.
@@ -22,7 +22,7 @@ I build LLM agents, retrieval systems and real-time web applications. My work sp
 <h2 align="center">Open Source</h2>
 
 <p align="center">
-  Eight projects, about 600k stars between them. Eight of my patches are merged upstream, and five more are in review.
+  Eight projects, about 600k stars between them. Ten of my patches are merged upstream, and five more are in review.
   <br/>
   Mostly small correctness fixes in code I hit while building something else.
 </p>
